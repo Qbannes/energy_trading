@@ -1,9 +1,6 @@
 # Einzelne Dateien Ignorieren
-fahrplan_praktikant.md
-gespraechemitklaus.md
 .obsidian/
 .obsidian/workspace.json
-Quests.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
