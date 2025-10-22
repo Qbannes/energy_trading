@@ -24,7 +24,7 @@ Quelle: https://www.next-kraftwerke.de/wissen/merit-order
 # **Strombörse**
 
 In Europa gibt es zwei wesentliche Börsen für den Stromhandel. Einmal die EEX (European Energy Exchange AG) mit Sitz in Leipzig und die Tochter der EEX die EPEX (European Power Exchange) mit sitz in Paris. 
-Ander EEX (Terminmarkt) werden Termingeschäfte getätigt, das bedeutet, dass dort langfristig Energie ein- und verkauft wird. Dort werden Energiemengen langfristig - monats-, quartals- und jahrweise - eingekauft, um zum Beispiel günstige Preise erzielen zu können. Neben dem Preis wird durch den Kauf Grundbedarf (base) und oder Spitzenbedarf (peak) gedeckt. Weiter gibt es auch Zwischenprodukte (Zwischenverlauf), die auch weiter außerbörslich gehandelt werden können.
+Ander EEX (Terminmarkt) werden Termingeschäfte getätigt, das bedeutet, dass dort langfristig Energie ein- und verkauft wird. Dort werden Energiemengen langfristig - monats-, quartals- und jahrweise - eingekauft, um zum Beispiel günstige Preise erzielen zu können. Neben dem Erzielen eines möglichst niedrigen Preises, wird durch den Kauf von Grundlastenergie (base) und Spitzenlastenergie (peak) der Bedarf gedeckt. Weiter gibt es auch Zwischenprodukte (Zwischenverlauf), die auch weiter außerbörslich gehandelt werden können.
 
 An der EPEX (Spotmarkt) findet der kurzfristige Handel statt. Hier wird grundsätzlich in zwei Varianten des Handels unterschieden. Zum Einen zwischen day-ahead (ein Tag vor Nutzung) und intraday (am selben Tag -> halbe Stunde vor Nutzung). Somit kann Energie viertel- und stundenweise eingekauft werden. Die Preise sind hier deutlich höher als auf den Terminmärkten. 
 
@@ -44,3 +44,8 @@ Als Arbitrage wird das gleichzeitige Ausnutzen von Preisunterschieden des einen 
 
 Der Ask-Preis (Briefkurs) ist der niedrigste Preis, zudem ein Verkäufer bereit ist zu verkaufen. Der Bid-Preis (Geldkurs) ist der höchste Preis, zudem ein Käufer bereit ist zu kaufen.
 Der Ask-Preis ist grundsätzlich immer höher als der Bid-Preis und die Spanne (spread) dazwischen beträgt in der Regel 1-2% je nach Volatilität und Liquidität des Marktes.
+
+# Negative Strompreise
+
+Negative Strompreise entstehen, wenn die Stromproduktion (Angebot) den Stromverbrauch (Nachfrage) übersteigt. Diese Preise treten meist bei einer zu hohen Einspeisung von Solar- und Windenergie auf. 
+
