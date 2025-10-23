@@ -20,7 +20,7 @@
 
 # Tag 56 (20.10.2025):
 
-8:30-16:30 (13:10-13:40 Pause) = 7,5
+Montag 8:20-16:30 (13:10-13:40 Pause) = 7,67
 
 - Begrüßung der Mitarbeiter in ihren jeweiligen Abteilungen
 - Einrichten des Arbeitsplatzes
@@ -31,7 +31,7 @@
 
 # Tag 57 (21.10.2025):
 
-7:30 - 16:30 (13:30 - 14:00 Pause) = 8,5
+Dienstag 7:20 - 16:30 (13:30 - 14:00 Pause) = 8,67
 
 - Recherche Energiemärkte:
      - Kritik Merit-Order
@@ -48,7 +48,7 @@ Wie in jedem neuen Thema oder Projekt ist sich zunächst in die Materie einzules
 
 # Tag 58 (22.10.2025):
 
-7:30 - 16:30 (13:30 - 14:00 Pause) = 8,5
+Mittwoch 7:20 - 16:30 (13:30 - 14:00 Pause) = 8,67
 
 - Comet-Browser testen in Combination GWDG Jupyter Notebook (https://jupyter-cloud.gwdg.de/jhub/user/0532562/lab/tree/TradingEnergy/TradingEnergy.ipynb)
 - Recherche: Trading Bot Python (https://www.youtube.com/watch?v=QAo0x9fE6ck&list=PLcFcktZ0wnNmdgAdv4-Yl_nzS5LiKnhnn, https://www.youtube.com/watch?v=1xClSutmwg8&list=PLwEOixRFAUxZmM26EYI1uYtJG39HDW1zm)
@@ -60,3 +60,21 @@ Wie in jedem neuen Thema oder Projekt ist sich zunächst in die Materie einzules
 
 Heute habe ich mich mit Hendrik etwas ausgetauscht über den Strommarkt und einigen technischen Komponenten des Stromnetzes. Beim Gespräch sind einige Schlagwörter gefallen, die ich am gestrigen und am Tag zuvor nachgeschlagen hatte und diese in mein Energy_Wiki festgehalten habe, um darin immer nachschlagen zu können und damit ich das niedergeschriebene besser im Kopf behalte. Weiter hat mir Hendrik die Strombörse live gezeigt. Interessant war unter anderem, welche Wirtschaftssubjekte Forecast-Daten bereitstellen. Während des Gespräches habe ich mir einige Notizen gemacht mit Fachbegriffen und Verweisen zu Internetseiten zum Nachschlagen. 
 Ich habe mir heute etwas über das Programmieren von Trading Bots in Python angeschaut und mir erste Schritte überlegt und notiert. Angefangen mit dem Laden historischer Daten (siehe oben). Als nächstes werde ich mir die Daten (Datum, Preise/MWh) visualisieren lassen in Jupyter Notebook. Ich habe Jupyter Notebook gewählt, weil es mir ermöglicht den Code zu unterteilen in Teilprogramme, die ich separat laufen lassen kann. Mir fällt gerade ein, dass ich noch viel mehr schreiben könnte, werde mich allerdings nur auf das Nötigste beschränken. Alles in allem habe ich heute einen Blick dafür bekommen, wie komplex der Strommarkt und das Stromnetz sind, welche Wirtschaftssubjekte beteiligt sind und das dadurch jetzt schon gefühlt ein riesen Haufen an Parameter vorhanden sind, die später das Verhalten des Trading-Bots beeinflussen werden. 
+
+# Tag 59 (23.10.2025):
+
+Donnertag 7:20 - 16:30 (13:30 - 14:00 Pause) = 8,67
+
+- Recherche: aktuelle Stromhandelspreise (EU)
+- Programmieren lernen Jupyter Noteboook (VS Code - lokal und Jupyter-Cloud): Stromhandelspreise abrufen (https://www.smard.de/) mittels REST-API als csv speichern und visualisieren (plotten)
+	- Hilfe von Claude AI und Perplexity AI, Westermann Bücher (Fachstufe II, Technische IT-Berufe)
+- Personalfragebogen ausfüllen
+- Code auseinandernehmen und verstehen Stromdaten_BundesNetzAgentur_REST_API.ipynb
+	- Unix Timestamp: ist eine laufende Zahl in Sekunden seit Donnerstag, dem 1. Januar 1970, 00:00, Bsp: 23.10.2025 01:00 -> 1729674000000 Sekunden
+	- Funktionen und Parameter: Übergabe von Werten
+
+
+
+# Tag 60 (24.10.2025):
+
+Freitag 7:20 - 13:39 = 6,19
