@@ -49,3 +49,45 @@ Der Ask-Preis ist grundsätzlich immer höher als der Bid-Preis und die Spanne (
 
 Negative Strompreise entstehen, wenn die Stromproduktion (Angebot) den Stromverbrauch (Nachfrage) übersteigt. Diese Preise treten meist bei einer zu hohen Einspeisung von Solar- und Windenergie auf. 
 
+# 50hz-Netz
+
+Das europäische Stromnetz hat eine Frequenz von 50 Herz. Das bedeutet, dass der Wechselstrom 50 mal in der Sekunde seine Richtung ändert. Die Einhaltung der 50 Herz sind ist entscheidend für die Netzstabilität. Um diesen Wert zu erhalten muss der Verbrauch in jedem Moment der Erzeugung entsprechen. 
+
+## 49,8 und 50,2-Hertz-Problematik
+
+Liegt ein Strommangel im Netz vor, sinkt die Frequenz und genauso umgekehrt. Das Verhältnis von Stromverbrauch und Stromerzeugung ist die Ursache für Schwankungen im Herzbereich. AB Werten von 49,8 und 50,2 greifen Sicherheitsmechanismen, die die Frequenz wieder auf 50 Herz zurückbringen.
+
+### Abkopplung bei Unterfrequenz (Frequenz zu niedrig)
+
+- Unter 49,80 Hz: Aktivierung zusätzlicher Erzeugungsleistung und Maßnahmen zur Frequenzstabilisierung.
+    
+- Unterschreitet die Frequenz 49,50 Hz, liegt die untere Grenze der im Normalbetrieb geduldeten Frequenzabweichung.
+    
+- Weiteres Sinken auf 49,00 Hz löst frequenzabhängigen Lastabwurf von ca. 10-15% der Verbraucher aus (Teil-Blackout).
+    
+- Bei 48,70 Hz und 48,40 Hz folgen weitere Lastabwürfe von jeweils 10-15%.
+    
+- Bei 47,50 Hz erfolgt gezielte Abtrennung von Netzsegmenten und Kraftwerken, was einem regionalen Blackout entspricht.
+    
+
+## Abkopplung bei Überfrequenz (Frequenz zu hoch)
+
+- Ab 50,20 Hz beginnen viele regelbare Erzeugungsanlagen (z.B. PV, BHKW) ihre Leistung zu reduzieren.
+    
+- Die obere Grenze im Normalbetrieb liegt bei 50,50 Hz.
+    
+- Ab 51,00 Hz müssen neuere Kraftwerke mindestens 90 Minuten einsatzfähig bleiben, ältere Kraftwerke gehen vom Netz.
+    
+- Ab 51,50 Hz müssen alle regelbaren Kraftwerke ihre Stromerzeugung komplett einstellen.
+    
+- Ab 52,00 Hz gilt der Betriebszustand als unzulässig.
+
+# Netzbetreiber
+
+Als wichtiger Aktuer in der Energiewirtschaft ist der Netzbetreiber verantwortlich für den sicheren Betrieb. Sie überwachen das Stromnetz und stellen sicher, dass das Netz stets innerhalb seiner Kapazität arbeitet und die Nachfrage immer gedeckt ist. Auf den Märkten spielen sie eine ROlle für Ausgleichs- und Systemdienstleistungen.
+## Übertragungsnetzbetreiber (ÜNB)
+
+
+## Verteilungsnetzbetreiber (VNB)
+
+
