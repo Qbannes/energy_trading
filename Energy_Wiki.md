@@ -91,3 +91,6 @@ Als wichtiger Aktuer in der Energiewirtschaft ist der Netzbetreiber verantwortli
 ## Verteilungsnetzbetreiber (VNB)
 
 
+# 4- bzw. 6-Stunden-Regel
+
+Die 4- bzw. 6-Stunden-Regel führt dazu, dass EEG-geförderte Anlagen für die Zeiträume mit mindestens 4 bzw. 6 Stunden negativer Strompreise keine Marktprämie erhalten. Das beeinflusst sowohl, wann Anlagenbetreiber keine Einnahmen haben, als auch wann sie aus wirtschaftlichen Gründen eventuell den Strom nicht mehr einspeisen wollen.
