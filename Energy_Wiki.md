@@ -87,10 +87,13 @@ Liegt ein Strommangel im Netz vor, sinkt die Frequenz und genauso umgekehrt. Das
 Als wichtiger Aktuer in der Energiewirtschaft ist der Netzbetreiber verantwortlich für den sicheren Betrieb. Sie überwachen das Stromnetz und stellen sicher, dass das Netz stets innerhalb seiner Kapazität arbeitet und die Nachfrage immer gedeckt ist. Auf den Märkten spielen sie eine ROlle für Ausgleichs- und Systemdienstleistungen.
 ## Übertragungsnetzbetreiber (ÜNB)
 
+Ein Übertragungsnetzbetreiber (ÜNB) ist eine Organisation, die für die effiziente und zuverlässige Übertragung von Strom von Erzeugungsanlagen über das Stromnetz zu regionalen oder lokalen Stromverteilungsbetreibern verantwortlich ist.
 
+In Europa hat ein Übertragungsnetz in der Regel Spannungsebenen von 220 Kilovolt (kV) bis 380 kV. Die ÜNB sind in der Regel auch für Stromerzeugungsanlagen mit einer Nettoerzeugungskapazität von mehr als 100 Megawatt (MW) zuständig.
 ## Verteilungsnetzbetreiber (VNB)
 
-
+Ein Verteilernetzbetreiber (VNB) betreibt und verwaltet die lokalen und regionalen Energieverteilungsnetze, die Strom zu den Endverbrauchern transportieren, und ist manchmal auch Eigentümer dieser Netze. Das Verteilungsnetz besteht aus Niederspannungsnetzen (250-400 V) und Mittelspannungsnetzen (6-50 kV). Von den 510 GW erneuerbarer Energiekapazität, die in diesem Jahrzehnt in das öffentliche Netz in Europa eingespeist werden, werden 70 Prozent an das Verteilernetz angeschlossen werden. Die Verteilernetzbetreiber (VNB) sind somit für den Anschluss der erneuerbaren Energien verantwortlich, ermöglichen Flexibilität, unterstützen die Elektrifizierung und befähigen die Verbraucher, sich in einer zunehmend dezentralisierten Energielandschaft zu engagieren.
 # 4- bzw. 6-Stunden-Regel
 
 Die 4- bzw. 6-Stunden-Regel führt dazu, dass EEG-geförderte Anlagen für die Zeiträume mit mindestens 4 bzw. 6 Stunden negativer Strompreise keine Marktprämie erhalten. Das beeinflusst sowohl, wann Anlagenbetreiber keine Einnahmen haben, als auch wann sie aus wirtschaftlichen Gründen eventuell den Strom nicht mehr einspeisen wollen.
+

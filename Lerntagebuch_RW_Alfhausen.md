@@ -88,8 +88,20 @@ Freitag 6:20 - 12:40 = 6,16
 - Python üben https://www.hackerrank.com/, https://campus.datacamp.com, https://www.youtube.com/watch?v=KZpYtNtGxSU
 - Erkundung firmeneigenes Strompreisportal http://gamma.rw.energy:3000
 
-Die erste Woche ist nun zu Ende, und mein erster Eindruck ist durchweg positiv und zugleich überwältigend. Ich habe in kurzer Zeit sehr viele neue Eindrücke gesammelt und konnte bereits wertvolle Einblicke  gewinnen. Besonders spannend finde ich die Verbindung zwischen meinem fachlichen Schwerpunkt und den praktischen Aufgaben, die mir hier die Möglichkeit geben, mein Wissen gezielt zu vertiefen und weiter auszubauen.
+Die erste Woche ist nun zu Ende, und mein erster Eindruck ist durchweg positiv. Ich habe in kurzer Zeit sehr viele neue Eindrücke gesammelt und konnte bereits wertvolle Einblicke  gewinnen. Besonders spannend finde ich die Verbindung zwischen meinem fachlichen Schwerpunkt und den praktischen Aufgaben, die mir hier die Möglichkeit geben, mein Wissen gezielt zu vertiefen und weiter auszubauen.
 
 Darüber hinaus fasziniert mich die deutliche wirtschaftliche Komponente, insbesondere der Bezug zur internationalen Strombörse. Diese Kombination aus technischer und ökonomischer Perspektive eröffnet mir ein vielseitiges und zukunftsorientiertes Arbeitsfeld, schätze ich.
 
 In der kommenden Woche steht erneut viel Neues an, sowohl fachlich als auch organisatorisch. Insgesamt war der Einstieg sehr motivierend und stimmt mich optimistisch für die nächsten Wochen.
+
+# Tag 61 (27.10.2025):
+
+Montag 9:20 - 17:30 (14:00 - 14:30 Pause) = 7,67
+
+- Recherche: 
+	- Übertragungsnetzbetreiber + Verteilungsnetzbetreiber
+	- 4- bzw. 6-Stunden-Regel
+- Buch: Python Grundkurs (2024):
+	- Verzweigungen und Schleifen S.133-152
+		- **W**iederholungsaufgaben **W**1-**W**9
+
