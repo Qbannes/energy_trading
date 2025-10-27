@@ -103,5 +103,7 @@ Montag 9:20 - 17:30 (14:00 - 14:30 Pause) = 7,67
 	- 4- bzw. 6-Stunden-Regel
 - Buch: Python Grundkurs (2024):
 	- Verzweigungen und Schleifen S.133-152
-		- **W**iederholungsaufgaben **W**1-**W**9
+		- **W**iederholungsaufgaben **W**1-**W**2
+
+Der heutige Tag ging komplett für Python drauf. Ich werde nur das nötigste lernen um vorwärts zu kommen, zumal ich noch gar nicht weiß was das nötigste umfasst um weiter zu kommen. Morgen geht es mit Aufgabe W3 aus dem Buch Python Grundkurs weiter. 
 
