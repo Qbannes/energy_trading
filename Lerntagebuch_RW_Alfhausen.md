@@ -107,3 +107,14 @@ Montag 9:20 - 17:30 (14:00 - 14:30 Pause) = 7,67
 
 Der heutige Tag ging komplett für Python drauf. Ich werde nur das nötigste lernen um vorwärts zu kommen, zumal ich noch gar nicht weiß was das nötigste umfasst um weiter zu kommen. Morgen geht es mit Aufgabe W3 aus dem Buch Python Grundkurs weiter. 
 
+# Tag 62 (28.10.2025):
+
+Dienstag 6:20 - 14:40 (12:45 - 13:15Pause) = 7,83
+
+- Buch: Python Grundkurs (2024):
+	- Verzweigungen und Schleifen S.133-152
+		- **W**iederholungsaufgaben **W**3-**W**8 (W9 ausstehend)
+- Udemy:
+	- Python Grundkurs: Datenstrukturen, Zahlen, Variablen, Strings (Indexing + Slicing)
+
+Das Wiederholen von Grundlagen mittels Udemy hat mir sehr geholfen und das werde ich auch weiterführen bis zum Schluss. Ich werde das Buch Python Grundkurs (2024) und Udemy im Wechsel nutzen. Das Buch bietet knifflige Aufgaben wohingegen Udemy einfachere Aufgaben bietet, um eine gewisse Sicherheit zu erlangen. 
