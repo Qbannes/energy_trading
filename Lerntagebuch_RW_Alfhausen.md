@@ -117,4 +117,8 @@ Dienstag 6:20 - 14:40 (12:45 - 13:15Pause) = 7,83
 - Udemy:
 	- Python Grundkurs: Datenstrukturen, Zahlen, Variablen, Strings (Indexing + Slicing)
 
-Das Wiederholen von Grundlagen mittels Udemy hat mir sehr geholfen und das werde ich auch weiterführen bis zum Schluss. Ich werde das Buch Python Grundkurs (2024) und Udemy im Wechsel nutzen. Das Buch bietet knifflige Aufgaben wohingegen Udemy einfachere Aufgaben bietet, um eine gewisse Sicherheit zu erlangen. 
+Das Wiederholen von Grundlagen mittels Udemy hat mir sehr geholfen und das werde ich auch weiterführen bis zum Schluss. Ich werde das Buch Python Grundkurs (2024) und Udemy im Wechsel nutzen. Das Buch bietet knifflige Aufgaben wohingegen Udemy einfachere Aufgaben bietet, um eine gewisse Sicherheit zu erlangen. Morgen werde ich ein wenig am Energy_Wiki weiterarbeiten, das kleine Einmal-Eins Stromhandels und -netzes. 
+
+# Tag 63 (29.10.2025):
+
+Mittwoch 6:20 - 13:40 = 7,33
