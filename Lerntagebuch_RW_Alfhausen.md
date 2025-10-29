@@ -115,10 +115,13 @@ Dienstag 6:20 - 14:40 (12:45 - 13:15Pause) = 7,83
 	- Verzweigungen und Schleifen S.133-152
 		- **W**iederholungsaufgaben **W**3-**W**8 (W9 ausstehend)
 - Udemy:
-	- Python Grundkurs: Datenstrukturen, Zahlen, Variablen, Strings (Indexing + Slicing)
+	- Das Python Grundlagen Bootcamp: Datenstrukturen, Zahlen, Variablen, Strings (Indexing + Slicing)
 
 Das Wiederholen von Grundlagen mittels Udemy hat mir sehr geholfen und das werde ich auch weiterführen bis zum Schluss. Ich werde das Buch Python Grundkurs (2024) und Udemy im Wechsel nutzen. Das Buch bietet knifflige Aufgaben wohingegen Udemy einfachere Aufgaben bietet, um eine gewisse Sicherheit zu erlangen. Morgen werde ich ein wenig am Energy_Wiki weiterarbeiten, das kleine Einmal-Eins Stromhandels und -netzes. 
 
 # Tag 63 (29.10.2025):
 
-Mittwoch 6:20 - 13:40 = 7,33
+Mittwoch 6:15 - 13:40 = 7,41
+
+- Udemy: Das Python Grundlagen Bootcamp: Listen, Dictionaries, Tupel, Anweisungen, Methoden und Funktionen, Bool´sche Parameter, Map und Filter
+- List-Comprehension: https://www.youtube.com/watch?v=jA8C52Xm3D0&t=408s
