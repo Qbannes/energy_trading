@@ -96,7 +96,7 @@ In der kommenden Woche steht erneut viel Neues an, sowohl fachlich als auch orga
 
 # Tag 61 (27.10.2025):
 
-Montag 9:20 - 17:30 (14:00 - 14:30 Pause) = 7,67
+Montag 9:20 - 17:40 (14:00 - 14:30 Pause) = 7,83
 
 - Recherche: 
 	- Übertragungsnetzbetreiber + Verteilungsnetzbetreiber
@@ -125,3 +125,9 @@ Mittwoch 6:15 - 13:40 = 7,41
 
 - Udemy: Das Python Grundlagen Bootcamp: Listen, Dictionaries, Tupel, Anweisungen, Methoden und Funktionen, Bool´sche Parameter, Map und Filter
 - List-Comprehension: https://www.youtube.com/watch?v=jA8C52Xm3D0&t=408s
+
+# Tag 64 (30.10.2025):
+
+Donnerstag 7:20 - 15:40 (13:00 - 13:30Pause) = 8,16
+
+- Udemy: Das Python Grundlagen Bootcamp: NumPy, Pandas (Sieries), Dataframes Teil 1, 2, 3
