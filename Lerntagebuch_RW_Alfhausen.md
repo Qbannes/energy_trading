@@ -135,3 +135,6 @@ Donnerstag 7:20 - 15:40 (13:00 - 13:30Pause) = 8,16
 # Tag 65 (03.11.2025):
 
 Montag 7:20 -  (13:00 - 13:30Pause) = 8,16
+
+- Strombörse beobachten, Fragen notieren
+- Udemy: Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging
