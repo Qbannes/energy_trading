@@ -134,20 +134,20 @@ Donnerstag 7:20 - 15:40 (13:00 - 13:30Pause) = 8,16
 
 # Tag 65 (03.11.2025):
 
-Montag 7:00 - 16:00 (11:40 - 12:10 Pause) = 
+Montag 7:00 - 16:00 (11:40 - 12:10 Pause) = 8,5
 
 - Strombörse beobachten, Fragen notieren
 - Udemy: Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging
 
 # Tag 66 (04.11.2025):
 
-Dienstag 7:30 - 15:45 (Unterbrechungen/Pause 11:50-12:10, 13:45-14:00) = 
+Dienstag 7:30 - 16:45 (Unterbrechungen/Pause 11:50-12:10, 13:45-14:00) = 8,66
 
 - Strombörse beobachten, Fragen notieren
 - Podcast: 1 GW BESS Portfolio im Trading, Peter Reitz (CEO EEX), E#87 Wärmenetzausbau Gaskraftwerkplanung und Energiepreise 
-- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Betteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher
+- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Betteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher, Netzdienlich Netzneutral Netzschädlich, Dispatch Redispatch, Nodal (oder auch locational marginal pricing, LMP  )
 
 Die Lernkurve ist steil am Anfang? Definitiv, wenn man betrachtet, was sich für ein Berg an Wissen auftut, der gemeistert werden will. 
 Die Podcastfolgen über den Energiemarkt und Algorithmen war sehr spannend. Manchmal war es etwas schwierig, sich zu konzentrieren, da ich heute auf dem Rückweg nach Osnabrück den Zug genommen habe und es stellenweise sehr laut und auch sehr eng wurde.
 Heute kam ich nicht dazu für Python zu lernen, werde dies aber spätestens Ende der Woche wieder angehen. 
-Die Fragen und dazugehörige Screenshots über das Börsenchart habe ich mir in Word in der Fragen_Stromboerse.docx notiert.
+Die Fragen und dazugehörige Screenshots über das Börsenchart habe ich mir in Word in der Fragen_Stromboerse.docx-Datei notiert.
