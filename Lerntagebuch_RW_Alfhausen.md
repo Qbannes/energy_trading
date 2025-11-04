@@ -138,3 +138,8 @@ Montag 7:20 -  (13:00 - 13:30Pause) = 8,16
 
 - Strombörse beobachten, Fragen notieren
 - Udemy: Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging
+
+# Tag 66 (04.11.2025):
+
+- Podcast: 1 GW BESS Portfolio im Trading, Peter Reitz (CEO EEX), E#87 Wärmenetzausbau Gaskraftwerkplanung und Energiepreise 
+- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Betteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher
