@@ -130,14 +130,14 @@ Mittwoch 6:15 - 13:40 = 7,41
 
 Donnerstag 7:20 - 15:40 (13:00 - 13:30Pause) = 8,16
 
-- Udemy: Das Python Grundlagen Bootcamp: NumPy, Pandas (Sieries), Dataframes Teil 1, 2, 3
+- Udemy: Das Python Grundlagen Bootcamp: NumPy, Pandas (Sieries), 
 
 # Tag 65 (03.11.2025):
 
 Montag 7:00 - 16:00 (11:40 - 12:10 Pause) = 8,5
 
 - Strombörse beobachten, Fragen notieren
-- Udemy: Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging
+- Udemy: Grundlagen Bootcamp: Dataframes Teil 1, 2, 3
 
 # Tag 66 (04.11.2025):
 
@@ -145,9 +145,21 @@ Dienstag 7:30 - 16:45 (Unterbrechungen/Pause 11:50-12:10, 13:45-14:00) = 8,66
 
 - Strombörse beobachten, Fragen notieren
 - Podcast: 1 GW BESS Portfolio im Trading, Peter Reitz (CEO EEX), E#87 Wärmenetzausbau Gaskraftwerkplanung und Energiepreise 
-- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Betteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher, Netzdienlich Netzneutral Netzschädlich, Dispatch Redispatch, Nodal (oder auch locational marginal pricing, LMP  )
+- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Batteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher, Netzdienlich Netzneutral Netzschädlich, Dispatch Redispatch, Nodal (oder auch locational marginal pricing, LMP  )
 
 Die Lernkurve ist steil am Anfang? Definitiv, wenn man betrachtet, was sich für ein Berg an Wissen auftut, der gemeistert werden will. 
 Die Podcastfolgen über den Energiemarkt und Algorithmen war sehr spannend. Manchmal war es etwas schwierig, sich zu konzentrieren, da ich heute auf dem Rückweg nach Osnabrück den Zug genommen habe und es stellenweise sehr laut und auch sehr eng wurde.
 Heute kam ich nicht dazu für Python zu lernen, werde dies aber spätestens Ende der Woche wieder angehen. 
 Die Fragen und dazugehörige Screenshots über das Börsenchart habe ich mir in Word in der Fragen_Stromboerse.docx-Datei notiert.
+
+# Tag 67 (05.11.2025):
+
+7:20 - 16:40 (14:30-15:00 Pause) = 8,83
+
+- Eintragung Fachvokabular in Energy_Wiki.md
+- E#86 'Strom': Dr. Tim Meyers Marktentscheidungen und die Kraft der Innovation
+- Udemy: Udemy: Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging, Joining, Concatanating
+- Interdisziplinär: 
+	- Docker vs. VM Ware
+
+

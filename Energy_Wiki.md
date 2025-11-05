@@ -95,5 +95,46 @@ In Europa hat ein Übertragungsnetz in der Regel Spannungsebenen von 220 Kilovol
 Ein Verteilernetzbetreiber (VNB) betreibt und verwaltet die lokalen und regionalen Energieverteilungsnetze, die Strom zu den Endverbrauchern transportieren, und ist manchmal auch Eigentümer dieser Netze. Das Verteilungsnetz besteht aus Niederspannungsnetzen (250-400 V) und Mittelspannungsnetzen (6-50 kV). Von den 510 GW erneuerbarer Energiekapazität, die in diesem Jahrzehnt in das öffentliche Netz in Europa eingespeist werden, werden 70 Prozent an das Verteilernetz angeschlossen werden. Die Verteilernetzbetreiber (VNB) sind somit für den Anschluss der erneuerbaren Energien verantwortlich, ermöglichen Flexibilität, unterstützen die Elektrifizierung und befähigen die Verbraucher, sich in einer zunehmend dezentralisierten Energielandschaft zu engagieren.
 # 4- bzw. 6-Stunden-Regel
 
-Die 4- bzw. 6-Stunden-Regel führt dazu, dass EEG-geförderte Anlagen für die Zeiträume mit mindestens 4 bzw. 6 Stunden negativer Strompreise keine Marktprämie erhalten. Das beeinflusst sowohl, wann Anlagenbetreiber keine Einnahmen haben, als auch wann sie aus wirtschaftlichen Gründen eventuell den Strom nicht mehr einspeisen wollen.
+Die 4- bzw. 6-Stunden-Regel führt dazu, dass EEG-geförderte Anlagen für die Zeiträume mit mindestens 4 bzw. 6 Stunden negativer Strompreise keine Marktprämie erhalten. Das beeinflusst sowohl, wann Anlagenbetreiber keine Einnahmen haben, als auch wann sie aus wirtschaftlichen Gründen eventuell den Strom nicht mehr einspeisen wollen. 
+
+
+# Battery Energy Storage System (BESS)
+
+Batteriespeichersystem, das überschüssigen Ökostrom speichert und bei Bedarf hohe Flexibilität für Netz und Markt bietet.
+
+# Batteriespeicher 
+Technik zur Zwischenspeicherung elektrischer Energie meist in Batterien, oft Lithium-Ionen, zur Nutzung bei Strombedarf.
+
+# Business-to-Customer (B2C)
+Geschäftsmodell, bei dem Unternehmen direkt Produkte oder Dienstleistungen an Endkunden verkaufen.
+
+# Co-located Assets
+Anlagen, die am selben Standort nebeneinander betrieben werden, z.B. PV-Anlage plus Batteriespeicher.
+
+# Dispatch - Redispatch
+Steuerung der Stromerzeugung (Dispatch) oder auch die geplante Einspeisung von Kraftwerken für einen bestimmten Zeitraum, meist dem Folgetag und nachträgliche Anpassung durch Übertragungsnetzbetreiber (Redispatch) bei Netzengpässen durch Anweisungen des ÜNB, neuerdings seit 2021 auch des Verteilnetzbetreibers (VNB) Kraftwerke zurückzufahren und an anderer Stelle die Einspeisung zu erhöhen.
+
+# Graustrom
+Strom aus konventionellen fossilen oder nicht erneuerbaren Quellen ohne spezifisches Umweltzertifikat.
+# Frequency Containment Reserve (FCR)
+Automatisierte Netzreserve zur Frequenzstabilisierung. Die FCR besteht aus physischen Anlagen, wie Batteriespeichern, Pumpspeicherkraftwerken oder regelbaren Kraftwerken, die automatisch auf Frequenzabweichungen reagieren. Es erhöht oder verringert automatisch die Leistung im Netz, um es auf stabile 50Hz zu halten.
+# Flexible Connection Agreements (FCA)
+Verträge, die flexible Netzanbindung von Erzeugungsanlagen ermöglichen, z.B. variable Einspeiseleistungen.
+# Independent Power Producer (IPP)
+Unabhängiger Stromerzeuger, der Strom meist privatwirtschaftlich produziert und verkauft.
+
+# Netzdienlich, Netzneutral, Netzschädlich
+Bewertung, ob eine Anlage das Stromnetz unterstützt, keine Wirkung zeigt oder das Netz negativ beeinflusst.
+
+# Nodal (oder auch locational marginal pricing, LMP)
+Preisbildung am Strommarkt, die lokale Netzengpässe und Verluste berücksichtigt, dadurch unterschiedliche Preise an Netzpunkten.
+
+# Performance Warrenties
+Leistungsverpflichtungen oder Garantien über Leistung und Verfügbarkeit von Anlagen.
+ 
+# ÜNB - Übertragungsnetzbetreiber (Amprion, TransnetBW, Tennet TSO und 50Hertz)
+Betreiber der Höchstspannungsnetze in Deutschland (Amprion, TransnetBW, Tennet TSO, 50Hertz) verantwortlich für Netzstabilität und -betrieb.
+
+# Parkregler (EZA-Regler)
+Ein Parkregler (auch bekannt als EZA-Regler, Erzeugungsanlagen-Regler) ist ein technisches Steuerungssystem, das am Netzanschlusspunkt eines Anlagenparks installiert ist. Er überwacht und regelt die Einspeisung aller verbundenen Erzeugungseinheiten (z. B. Windenergieanlagen, Photovoltaik, Blockheizkraftwerke) gemeinsam. Der Parkregler sorgt dafür, dass die Leistungsvorgaben des Netzbetreibers eingehalten werden und die Einspeisung netzstabil und konform erfolgt.
 
