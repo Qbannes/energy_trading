@@ -158,8 +158,13 @@ Die Fragen und dazugehörige Screenshots über das Börsenchart habe ich mir in 
 
 - Eintragung Fachvokabular in Energy_Wiki.md
 - E#86 'Strom': Dr. Tim Meyers Marktentscheidungen und die Kraft der Innovation
-- Udemy: Udemy: Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging, Joining, Concatanating
+- Udemy: Python Grundlagen Bootcamp: Fehlende Daten, Gruppieren nach, Merging, Joining, Concatanating
 - Interdisziplinär: 
 	- Docker vs. VM Ware
 
 
+# Tag 68 (06.11.2025):
+
+8:20 - 16:15 (13:45-14:15 Pause) = 
+
+- Udemy: Python Grundlagen Bootcamp: DataFrames Operations Teil 1, Teil 2, CSV, EXCEL, Webscraping, SQL, JSON, Matplotlib Teil 1, Teil2, Teil3, Seaborn Distributionplots, 
