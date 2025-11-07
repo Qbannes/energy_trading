@@ -1,16 +1,11 @@
 # Praktikum_Daten-_und_Prozessanalyse -> Ziel: Energiehandel an der Börse automatisieren
 
-# Grober Fahrplan:
+# Zielsetzungen:
   - Englisch aufbessern (Lesen)
-  - Literatur querlesen
+  - Strommarkt/Stromnetz-Kenntnisse aneignen
+  - Programmierkenntnissse in Python aneignen
   - Fortschritte/Arbeit Dokumentieren
-## Themen:
-
-## Algorithmen
-
-## Programmierung
-
-
+  - Algorithmus für den Stromhandel programmieren
 
 # Beginn Lerntagebuch (20.10.2025), Praktikumsbeginn (20.10.2025):
 
@@ -145,7 +140,7 @@ Dienstag 7:30 - 16:45 (Unterbrechungen/Pause 11:50-12:10, 13:45-14:00) = 8,66
 
 - Strombörse beobachten, Fragen notieren
 - Podcast: 1 GW BESS Portfolio im Trading, Peter Reitz (CEO EEX), E#87 Wärmenetzausbau Gaskraftwerkplanung und Energiepreise 
-- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Batteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher, Netzdienlich Netzneutral Netzschädlich, Dispatch Redispatch, Nodal (oder auch locational marginal pricing, LMP  )
+- Recherche: Battery Energy Storage System (BESS), Independent Power Producer (IPP), Frequency Containment Reserve (FCR), Flexible Connection Agreements (FCA), Performance Warrenties, 4 ÜNB (Amprion, TransnetBW, Tennet TSO und 50Hertz), Batteriespeicher Unternehmen (terralayr, Terra One), Co-located Assets, Business-to-Customer (B2C), Graustrom, Standalone-Speicher, Netzdienlich Netzneutral Netzschädlich, Dispatch Redispatch, Nodal (oder auch locational marginal pricing, LMP )
 
 Die Lernkurve ist steil am Anfang? Definitiv, wenn man betrachtet, was sich für ein Berg an Wissen auftut, der gemeistert werden will. 
 Die Podcastfolgen über den Energiemarkt und Algorithmen war sehr spannend. Manchmal war es etwas schwierig, sich zu konzentrieren, da ich heute auf dem Rückweg nach Osnabrück den Zug genommen habe und es stellenweise sehr laut und auch sehr eng wurde.
@@ -172,6 +167,8 @@ Donnerstag 8:20 - 16:20 (13:45-14:15 Pause) = 7,5
 
 # Tag 69 (07.11.2025):
 
-7:20 - 13:40 =  6,33
+7:20 - 12:40 =  5,33
 
 - Udemy: Python Grundlagen Bootcamp: Seaborn Distributionsplots Teil 2, Matrix, Regression, Grids, Pandas Visualisierung Teil 1
+
+Die letzten drei Tage waren geprägt von Programmieren. Für den TradingBot werde ich noch viel Programmierkenntnisse benötigen. Ich nutze den ganzen Tag in Vollzeit zum Lernen von Python. Mit jeder neuen Einheit in Python erhöht sich meine Anerkennung anderen Programmieren gegenüber. Kommende Woche werde ich die Programmierkurse fortfahren, aber auch den Strommarkt nicht aus dem Blick verlieren. Ich werde mal fragen, ob ich bei Tradingentscheidungen live dabei sein kann. Auch habe ich noch einige Fragen, die ich mir notiert hatte zu den Charts. Viele Daten und deren Korrelationen erschließen sich mir noch nicht ganz. Das Großprojekt, den Energiehandel zu automatisieren verlangt von mir fundierte Kenntnisse, die erst angeeignet werden müssen. Mein Abschlussprojekt für die Abschlussprüfung starte ich nächstes Jahr.
