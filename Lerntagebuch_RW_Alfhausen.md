@@ -154,7 +154,7 @@ Die Fragen und dazugehörige Screenshots über das Börsenchart habe ich mir in 
 
 # Tag 67 (05.11.2025):
 
-7:20 - 16:40 (14:30-15:00 Pause) = 8,83
+Mittwoche 7:20 - 16:40 (14:30-15:00 Pause) = 8,83
 
 - Eintragung Fachvokabular in Energy_Wiki.md
 - E#86 'Strom': Dr. Tim Meyers Marktentscheidungen und die Kraft der Innovation
@@ -165,6 +165,13 @@ Die Fragen und dazugehörige Screenshots über das Börsenchart habe ich mir in 
 
 # Tag 68 (06.11.2025):
 
-8:20 - 16:15 (13:45-14:15 Pause) = 
+Donnerstag 8:20 - 16:20 (13:45-14:15 Pause) = 7,5
 
-- Udemy: Python Grundlagen Bootcamp: DataFrames Operations Teil 1, Teil 2, CSV, EXCEL, Webscraping, SQL, JSON, Matplotlib Teil 1, Teil2, Teil3, Seaborn Distributionplots, 
+- Udemy: Python Grundlagen Bootcamp: DataFrames Operations Teil 1, Teil 2, CSV, EXCEL, Webscraping, SQL, JSON, Matplotlib Teil 1, Teil2, Teil3, Seaborn Distributionplots Teil 1
+
+
+# Tag 69 (07.11.2025):
+
+7:20 - 13:40 =  6,33
+
+- Udemy: Python Grundlagen Bootcamp: Seaborn Distributionsplots Teil 2, Matrix, Regression, Grids, Pandas Visualisierung Teil 1
