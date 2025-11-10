@@ -175,8 +175,9 @@ Die letzten drei Tage waren geprägt von Programmieren. Für den TradingBot werd
 
 # Tag 70 (07.11.2025):
 
-Montag 7:20 - 16:40 (13:45-14:15 Pause) = 7,5
+Montag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
 
 - Udemy: Python Grundlagen Bootcamp: Pandas Visualisierung Teil1 + Teil2, Bildgrundlagen NumPy Arrays
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Debug Coding errors
 - https://transparency.entsoe.eu/Sercurity : Token für REST API freigeschaltet
+
