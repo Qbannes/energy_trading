@@ -167,8 +167,16 @@ Donnerstag 8:20 - 16:20 (13:45-14:15 Pause) = 7,5
 
 # Tag 69 (07.11.2025):
 
-7:20 - 12:40 =  5,33
+Freitag 7:20 - 12:40 =  5,33
 
 - Udemy: Python Grundlagen Bootcamp: Seaborn Distributionsplots Teil 2, Matrix, Regression, Grids, Pandas Visualisierung Teil 1
 
 Die letzten drei Tage waren geprägt von Programmieren. Für den TradingBot werde ich noch viel Programmierkenntnisse benötigen. Ich nutze den ganzen Tag in Vollzeit zum Lernen von Python. Mit jeder neuen Einheit in Python erhöht sich meine Anerkennung anderen Programmieren gegenüber. Kommende Woche werde ich die Programmierkurse fortfahren, aber auch den Strommarkt nicht aus dem Blick verlieren. Ich werde mal fragen, ob ich bei Tradingentscheidungen live dabei sein kann. Auch habe ich noch einige Fragen, die ich mir notiert hatte zu den Charts. Viele Daten und deren Korrelationen erschließen sich mir noch nicht ganz. Das Großprojekt, den Energiehandel zu automatisieren verlangt von mir fundierte Kenntnisse, die erst angeeignet werden müssen. Mein Abschlussprojekt für die Abschlussprüfung starte ich nächstes Jahr.
+
+# Tag 70 (07.11.2025):
+
+Montag 7:20 - 16:40 (13:45-14:15 Pause) = 7,5
+
+- Udemy: Python Grundlagen Bootcamp: Pandas Visualisierung Teil1 + Teil2, Bildgrundlagen NumPy Arrays
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Debug Coding errors
+- https://transparency.entsoe.eu/Sercurity : Token für REST API freigeschaltet
