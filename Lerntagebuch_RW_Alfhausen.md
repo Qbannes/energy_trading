@@ -183,4 +183,6 @@ Montag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
 
 # Tag 71 (11.11.2025):
 
-Dienstag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83  
+Dienstag 7:20 - 16:40 (14:10-14:40 Pause) = 8,83
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Day Trading with Oanda ( Abschnit 3: 14-19),  Financial Data Analysis with Python and Pandas (Abschnitt 12: 112-117), API Trading with Python (Abschnitt 8: 70-82)
