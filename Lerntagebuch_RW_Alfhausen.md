@@ -173,7 +173,7 @@ Freitag 7:20 - 12:40 =  5,33
 
 Die letzten drei Tage waren geprägt von Programmieren. Für den TradingBot werde ich noch viel Programmierkenntnisse benötigen. Ich nutze den ganzen Tag in Vollzeit zum Lernen von Python. Mit jeder neuen Einheit in Python erhöht sich meine Anerkennung anderen Programmieren gegenüber. Kommende Woche werde ich die Programmierkurse fortfahren, aber auch den Strommarkt nicht aus dem Blick verlieren. Ich werde mal fragen, ob ich bei Tradingentscheidungen live dabei sein kann. Auch habe ich noch einige Fragen, die ich mir notiert hatte zu den Charts. Viele Daten und deren Korrelationen erschließen sich mir noch nicht ganz. Das Großprojekt, den Energiehandel zu automatisieren verlangt von mir fundierte Kenntnisse, die erst angeeignet werden müssen. Mein Abschlussprojekt für die Abschlussprüfung starte ich nächstes Jahr.
 
-# Tag 70 (07.11.2025):
+# Tag 70 (10.11.2025):
 
 Montag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
 
@@ -181,3 +181,6 @@ Montag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Debug Coding errors
 - https://transparency.entsoe.eu/Sercurity : Token für REST API freigeschaltet
 
+# Tag 71 (11.11.2025):
+
+Dienstag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
