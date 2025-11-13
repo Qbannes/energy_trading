@@ -175,7 +175,7 @@ Die letzten drei Tage waren geprägt von Programmieren. Für den TradingBot werd
 
 # Tag 70 (10.11.2025):
 
-Montag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
+Montag 6:20 - 16:40 (14:00-14:30 Pause) = 9,83
 
 - Udemy: Python Grundlagen Bootcamp: Pandas Visualisierung Teil1 + Teil2, Bildgrundlagen NumPy Arrays
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Debug Coding errors
@@ -183,12 +183,29 @@ Montag 7:20 - 16:40 (14:00-14:30 Pause) = 8,83
 
 # Tag 71 (11.11.2025):
 
-Dienstag 7:20 - 16:40 (14:10-14:40 Pause) = 8,83
+Dienstag 6:20 - 16:40 (14:10-14:40 Pause) = 9,83
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Day Trading with Oanda ( Abschnit 3: 14-19),  Financial Data Analysis with Python and Pandas (Abschnitt 12: 112-117), API Trading with Python (Abschnitt 8: 70-82)
 
 # Tag 72 (12.11.2025):
 
-Dienstag 6:20 - 15:40 (14:10-14:40 Pause) = 8,83
+Mittwoch 6:20 - 15:40 (14:10-14:40 Pause) = 8,83
 
-Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:  Financial Data Analysis with Python and Pandas (Abschnitt 12: 118-)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:  Financial Data Analysis with Python and Pandas (Abschnitt 12: 118-119)
+- Erstellung API Entsoe (krachend gescheitert) --> erhalte keine Daten
+- Recherche: SKVE, Kerzencharts (zeichnen)
+
+# Tag 73 (13.11.2025):
+
+Donnerstag 7:20 - 12:40 = 5,33
+
+- Kerzencharts verstehen https://www.ig.com/en/ig-academy/the-basics-of-technical-analysis/support-and-resistance
+- Programmieren: Jupyter Notebook: Live-Chart mit KI-Hilfe
+- Live-Chart über API von Oanda.com in Jupyter-Notebook in GWDG-Cloud
+- Download Anaconda-Umgebung, da Live-Chart in VSCode nicht möglich mit JPYNB
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (391- 396)
+- Installation PyCharm, da Anaconda Jupyter Notebook Cloud begrenzte Recheneinheiten zur Verfügung stellt
+- PyCharm einrichten
+# Tag 74 (14.11.2025):
+
+Freitag 7:20 - 13:40 = 6,33
