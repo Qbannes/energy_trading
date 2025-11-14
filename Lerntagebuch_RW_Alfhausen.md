@@ -209,3 +209,6 @@ Donnerstag 7:20 - 12:40 = 5,33
 # Tag 74 (14.11.2025):
 
 Freitag 7:20 - 13:40 = 6,33
+
+- PyCharm einrichten
+- Datenpflege (Ausbildungsordner sortieren)
