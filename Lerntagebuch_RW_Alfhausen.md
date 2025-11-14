@@ -205,10 +205,12 @@ Donnerstag 7:20 - 12:40 = 5,33
 - Download Anaconda-Umgebung, da Live-Chart in VSCode nicht möglich mit JPYNB
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (391- 396)
 - Installation PyCharm, da Anaconda Jupyter Notebook Cloud begrenzte Recheneinheiten zur Verfügung stellt
-- PyCharm einrichten
+- PyCharm einrichten und Umgang trainieren
 # Tag 74 (14.11.2025):
 
 Freitag 7:20 - 13:40 = 6,33
 
-- PyCharm einrichten
+- PyCharm einrichten und zurechtfinden
 - Datenpflege (Ausbildungsordner sortieren)
+- PyCharm: Üben von Klassen und mehreren Programmen (dateiübergreifend)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (397-)

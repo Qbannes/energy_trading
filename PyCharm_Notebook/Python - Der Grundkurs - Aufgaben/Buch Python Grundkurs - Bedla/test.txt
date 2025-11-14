@@ -1,0 +1,2 @@
+Datum;Uhrzeit;Ort
+20.05.2025;16:00;Osnabrück
