@@ -215,7 +215,9 @@ Freitag 7:20 - 13:40 = 6,33
 - PyCharm: Üben von Klassen und mehreren Programmen (dateiübergreifend)
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (397-403)
 
-# Tag 75 (17.11.2025):
+# Tag 75 (15.11.2025):
 
-Montag ( Pause) =
+Samstag 11:15 -  (Unterbrechung/Pause) =
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (Programmierübungen+411)
 
