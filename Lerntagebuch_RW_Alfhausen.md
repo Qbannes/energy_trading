@@ -217,7 +217,7 @@ Freitag 7:20 - 13:40 = 6,33
 
 # Tag 75 (15.11.2025):
 
-Samstag 11:15 -  (Unterbrechung/Pause) =
+Samstag 11:15 - 13:30  (Unterbrechung/Pause) =
 
-- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (Programmierübungen+411)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (Programmierübung Excersize 1+411)
 
