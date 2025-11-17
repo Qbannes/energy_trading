@@ -222,4 +222,10 @@ Samstag 11:15 - 13:30  + 14:00 - 15:15 (Unterbrechung/Pause) = 3,5
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (Programmierübung Excersize 1+411)
 - Anmeldung SecIT Hannover, FMB Bad Salzuflen und Python Barcamp Karlsruhe
 
+# Tag 76 (17.11.2025):
+
+Montag 8:45 - 
+
+- 
+
 
