@@ -232,10 +232,10 @@ Montag 8:00 - 14:30 + 19:15 - 20:45 = 8
 
 Dienstag 7:00 - 12:00
 
-Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (419-426), Exercise 4 start
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (419-426), Exercise 4 start
 
 # Tag 77 (18.11.2025):
 
-Mittwoch 8:20 - 
+Mittwoch 8:20 - 16:40 (13:15-13:45 Pause) = 7,83
 
-Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (427-)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (427-432), User-Defined-Functions (445-454), Day Trading, Online Brokers and APIs (7-9)
