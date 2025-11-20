@@ -230,12 +230,23 @@ Montag 8:00 - 14:30 + 19:15 - 20:45 = 8
 
 # Tag 77 (18.11.2025):
 
-Dienstag 7:00 - 12:00
+Dienstag 7:00 - 12:00 = 5
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (419-426), Exercise 4 start
 
-# Tag 77 (18.11.2025):
+# Tag 78 (19.11.2025):
 
 Mittwoch 8:20 - 16:40 (13:15-13:45 Pause) = 7,83
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (427-432), User-Defined-Functions (445-454), Day Trading, Online Brokers and APIs (7-9)
+
+# Tag 79 (20.11.2025):
+
+Donnerstag 7:20 - 16:40 (13:00-13:30 Pause) = 8,83
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 3 - Day Trading with OANA - Deep Dive (20-28), Abschnitt 1 -Introduction to Time Series Datas in Panda (107-)
+- Programmieren in JPYNB: API starten, Accountdaten erfassen, DataFrame manipulieren
+- Gespräch mit Hendrik: 4 Quadrantenmodell Energietechnik, Blindleistung, Wirkleistung und Scheinleistung (Bierglasmodell)
+- OANDA Trade Training
+- Recherche: Hochfrequenzhandel und Arbitrage, Python vs. C++ im Energiehandel
+- 
