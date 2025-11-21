@@ -230,7 +230,7 @@ Montag 8:00 - 14:30 + 19:15 - 20:45 = 8
 
 # Tag 77 (18.11.2025):
 
-Dienstag 7:00 - 12:00 = 5
+Dienstag 7:00 - 13:00 = 6
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Python (& Finance) Basics (419-426), Exercise 4 start
 
@@ -244,9 +244,19 @@ Mittwoch 8:20 - 16:40 (13:15-13:45 Pause) = 7,83
 
 Donnerstag 7:20 - 16:40 (13:00-13:30 Pause) = 8,83
 
-- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 3 - Day Trading with OANA - Deep Dive (20-28), Abschnitt 1 -Introduction to Time Series Datas in Panda (107-)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 3 - Day Trading with OANDA - Deep Dive (20-28), Abschnitt 1 -Introduction to Time Series Datas in Panda (107-)
 - Programmieren in JPYNB: API starten, Accountdaten erfassen, DataFrame manipulieren
 - Gespräch mit Hendrik: 4 Quadrantenmodell Energietechnik, Blindleistung, Wirkleistung und Scheinleistung (Bierglasmodell)
 - OANDA Trade Training
 - Recherche: Hochfrequenzhandel und Arbitrage, Python vs. C++ im Energiehandel
-- 
+
+# Tag 79 (20.11.2025):
+
+Freitag 8:40 - 13:40 = 5 
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 1 -Introduction to Time Series Datas in Panda (107-111)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (119-121)
+- Buch: Python 3 - Programmieren für Einsteiger (S.13-16)
+- Compiler VS Interpreter https://www.youtube.com/watch?v=DYsQj5bJaZI
+- Funktion vs. Methode mit Paper Mario erklärt https://www.youtube.com/watch?v=QxKQEfLmG-Q
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (122 start, parallel Datei class_Investment im Exercises Ordner erstellt)
