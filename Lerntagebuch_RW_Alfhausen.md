@@ -260,3 +260,17 @@ Freitag 8:40 - 13:40 = 5
 - Compiler VS Interpreter https://www.youtube.com/watch?v=DYsQj5bJaZI
 - Funktion vs. Methode mit Paper Mario erklärt https://www.youtube.com/watch?v=QxKQEfLmG-Q
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (122 start, parallel Datei class_Investment im Exercises Ordner erstellt)
+
+# Tag 80 (24.11.2025):
+
+Montag 7:20 - 17:40 (15:00-15:30 Pause) = 11,83
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (122-132[8:00]) - Datei: simple_returns_vs_log_returns
+- Simple Returns (Einfache Renditen) vs. Logarithmic Returns (logarithmische Renditen)
+	- Simple Return (Einfacher Ertrag):  $$R=\left( \frac{Pneu-Palt}{Palt}\right)
+
+$$
+	- Logarithmic Return (Logarithmischer Ertrag):  $$ r = \ln \left( \frac{P_{\text{neu}}}{P_{\text{alt}}} \right) $$
+	- Eulerische Zahl e: $$( e = \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n ) $$
+	- Prozentuale Veränderung der Log-Perioden: $$e^r-1$$
+- Python: Lambda-Funktion
