@@ -263,7 +263,7 @@ Freitag 8:40 - 13:40 = 5
 
 # Tag 80 (24.11.2025):
 
-Montag 7:20 - 17:40 (15:00-15:30 Pause) = 11,83
+Montag 7:20 - 17:40 (15:00-15:30 Pause) = 9,83
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (122-132[8:00]) - Datei: simple_returns_vs_log_returns
 - Simple Returns (Einfache Renditen) vs. Logarithmic Returns (logarithmische Renditen)
@@ -274,3 +274,9 @@ $$
 	- Eulerische Zahl e: $$( e = \lim_{n \to \infty} \left( 1 + \frac{1}{n} \right)^n ) $$
 	- Prozentuale Veränderung der Log-Perioden: $$e^r-1$$
 - Python: Lambda-Funktion
+
+# Tag 81 (25.11.2025):
+
+Dienstag 8:35 - 17:40 = 8,58
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (132-144[0:20]) - Datei: 04_Short_Selling_Short_Positions_Returns.ipynb, 05_Short_Selling_Short_Position_Returns.ipynb, 06_Covariance_and_Correlation.ipynb, 07_Portfolio_and_Portfolio_Returns.ipynb, 
