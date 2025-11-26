@@ -54,7 +54,7 @@ Mittwoch 7:20 - 16:30 (13:30 - 14:00 Pause) = 8,67
 - Marktdaten in Jupyter einlesen
 
 Heute habe ich mich mit Hendrik etwas ausgetauscht über den Strommarkt und einigen technischen Komponenten des Stromnetzes. Beim Gespräch sind einige Schlagwörter gefallen, die ich am gestrigen und am Tag zuvor nachgeschlagen hatte und diese in mein Energy_Wiki festgehalten habe, um darin immer nachschlagen zu können und damit ich das niedergeschriebene besser im Kopf behalte. Weiter hat mir Hendrik die Strombörse live gezeigt. Interessant war unter anderem, welche Wirtschaftssubjekte Forecast-Daten bereitstellen. Während des Gespräches habe ich mir einige Notizen gemacht mit Fachbegriffen und Verweisen zu Internetseiten zum Nachschlagen. 
-Ich habe mir heute etwas über das Programmieren von Trading Bots in Python angeschaut und mir erste Schritte überlegt und notiert. Angefangen mit dem Laden historischer Daten (siehe oben). Als nächstes werde ich mir die Daten (Datum, Preise/MWh) visualisieren lassen in Jupyter Notebook. Ich habe Jupyter Notebook gewählt, weil es mir ermöglicht den Code zu unterteilen in Teilprogramme, die ich separat laufen lassen kann. Mir fällt gerade ein, dass ich noch viel mehr schreiben könnte, werde mich allerdings nur auf das Nötigste beschränken. Alles in allem habe ich heute einen Blick dafür bekommen, wie komplex der Strommarkt und das Stromnetz sind, welche Wirtschaftssubjekte beteiligt sind und das es dadurch jetzt schon gefühlt einen riesen Haufen an Parameter gibt, die später das Verhalten des Trading-Bots beeinflussen werden. 
+Ich habe mir heute etwas über das Programmieren von Trading Bots in Python angeschaut und mir erste Schritte überlegt und notiert. Angefangen mit dem Laden historischer Daten (siehe oben). Als nächstes werde ich mir die Daten (Datum, Preise/MWh) visualisieren lassen in Jupyter Notebook. Ich habe Jupyter Notebook gewählt, weil es mir ermöglicht den Code zu unterteilen in Teilprogramme, die ich separat laufen lassen kann. Mir fällt gerade ein, dass ich noch viel mehr schreiben könnte, werde mich allerdings nur auf das Nötigste beschränken. Alles in allem habe ich heute einen Blick dafür bekommen, wie komplex der Strommarkt und das Stromnetz sind, welche Wirtschaftssubjekte beteiligt sind und das es dadurch jetzt schon gefühlt einen riesen Haufen an Parameter gibt, die später das Verhalten des Trading-Bots bestimmen werden. 
 
 # Tag 59 (23.10.2025):
 
@@ -277,6 +277,16 @@ $$
 
 # Tag 81 (25.11.2025):
 
-Dienstag 8:35 - 17:40 = 8,58
+Dienstag 8:35 - 17:40 (14:45-15:15 Pause) = 8,58
 
-- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (132-144[0:20]) - Datei: 04_Short_Selling_Short_Positions_Returns.ipynb, 05_Short_Selling_Short_Position_Returns.ipynb, 06_Covariance_and_Correlation.ipynb, 07_Portfolio_and_Portfolio_Returns.ipynb, 
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (132-144[0:20]) - Datei: 04_Short_Selling_Short_Positions_Returns.ipynb, 05_Short_Selling_Short_Position_Returns.ipynb, 06_Covariance_and_Correlation.ipynb, 07_Portfolio_and_Portfolio_Returns.ipynb
+
+# Tag 82 (26.11.2025):
+
+Mittwoch 7:20 - 16:40 (13:30-14:00) = 8,83
+
+- Finanzmathematik aus Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS übertragen in Finanzmathematik.md
+- Plaintext: Formeln erstellen in Finance_Statistics.md
+- In Python: pct_changes() Quellcode einsehen und verstehen lernen https://github.com/pandas-dev/pandas/blob/main/pandas/core/generic.py#L11245
+- Anlegen eines Code-Snippets als Python_Code_Snippets.md
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: Abschnitt 12: Financial Data Analysis with Python and Pandas - a deep introduction (144[5:00]) - Datei: 08_Margin_Trading_and_Levered_Returns
