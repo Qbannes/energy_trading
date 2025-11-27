@@ -2,9 +2,27 @@
 
 # **Pandas**
 
-## 1. Daten einlesen
+## 1. Daten einlesen/speichern
 
-  
+0. **einlesen CSV / EXCEL**
+
+```Python
+pd.read_csv(r'Pfad+Name')
+```
+
+```Python
+pd.read_excel(r'Pfad+Name')
+```
+
+0.1. **speichern CSV / EXCEL**
+
+```Python
+Dateiname.to_csv('NeuerName.csv')
+```
+
+```Python
+Dateiname.to_excel('NeuerName.xls')
+```
 
 1. **Nur bestimmte Spalten einlesen**
 
@@ -14,7 +32,7 @@ Lese nur die benötigten Spalten aus einer Datei:
 
 ```python
 
-pd.read_csv(r"dateipfad", usecols=["spalte1", "spalte2"])
+pd.read_csv(r"Pfad+Dateiname", usecols=["spalte1", "spalte2"])
 
 ```
 
@@ -167,7 +185,11 @@ tabula.read_pdf("datei.pdf", pages="all")
 ```
 
   
-  
+12. **Register aus Excel wählen**
+
+```Python
+pd.read_excel('Pfad+Dateiname', sheet_name=`Register2`)
+```
 
 ***
 
