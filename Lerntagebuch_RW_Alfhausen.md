@@ -303,7 +303,7 @@ Donnerstag 7:15 - 16:40 (13:30-14:00) = 8,92
 
 # Tag 84 (28.11.2025):
 
-Freitag 9:15 - 11:30; 12:15 - 13:15; 
+Freitag 9:15 - 11:30; 12:15 - 13:15; 15:00 - 15:45 = 4
 
  - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 	 - Abschnitt 13: Advanced Topics (149-153)
