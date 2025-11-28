@@ -312,6 +312,6 @@ Freitag 9:15 - 11:30; 12:15 - 13:15;
 	 - 10:46 - Gewinn(EUR): 1292.59
 	 - 10:59 - Gewinn(EUR): 1523,48
 	 - 12:55 - Gewinn(EUR): 2341,65
-	 - 
+	 - 13:17 - Gewinn(EUR):   479,70
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
-	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (154-157)
+	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (154-157 end)
