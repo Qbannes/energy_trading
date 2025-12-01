@@ -308,10 +308,35 @@ Freitag 9:15 - 11:30; 12:15 - 13:15; 15:00 - 15:45 = 4
  - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 	 - Abschnitt 13: Advanced Topics (149-153)
  - OANDA Trading: Positionen geschlossen 
-	 - 09:57 - Gewinn(EUR): 3679,88
-	 - 10:46 - Gewinn(EUR): 1292.59
-	 - 10:59 - Gewinn(EUR): 1523,48
-	 - 12:55 - Gewinn(EUR): 2341,65
-	 - 13:17 - Gewinn(EUR):   479,70
+	 - 09:57 - Gewinn/Verlust (EUR): +3679,88
+	 - 10:46 - Gewinn/Verlust (EUR): +1292.59
+	 - 10:59 - Gewinn/Verlust (EUR): +1523,48
+	 - 12:55 - Gewinn/Verlust (EUR): +2341,65
+	 - 13:17 - Gewinn/Verlust (EUR):   +479,70
+	 - 15:46 - Gewinn/Verlust (EUR): +1297,07
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (154-157 end)
+
+# Tag 85 (01.12.2025):
+
+Montag 6:20 - 14:40 (10:00-10:15 / 13:00-13:15 Pause) = 7,83
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (WIederholung 154-157 end) -> Wichtig1: Klassen erstellen ab Lektion 158
+	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (WIederholung 158-166)
+	- Abschnitt 15: Defining and Testing Trading Strategies (172-)
+- 5 Useful Dunder Methods In Python:
+	- https://www.youtube.com/watch?v=y1ZWQQEe5PM
+- OANDA Chart mit Moving-Average-Anzeige um Trends zu erkennen
+	- Einstellung: 
+		- Upper Length 200
+		- Lower Length 50
+		- Upper Offset -20
+		- Lower Offset -20
+		- Begründung Offset: Trendlinien nach hinten verschieben, um Trend früher zu erkennen
+- Chartanalyse EUR/USD - SMA46 | SMA137 (NB_01_SMA.ipynb)![[Pasted image 20251201141051.png]]
+	- Trends erkennen/antizipieren
+
+# Tag 86 (02.12.2025):
+
+Dienstag 6:20 - 16:40 = 9,83
