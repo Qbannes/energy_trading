@@ -308,12 +308,12 @@ Freitag 9:15 - 11:30; 12:15 - 13:15; 15:00 - 15:45 = 4
  - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 	 - Abschnitt 13: Advanced Topics (149-153)
  - OANDA Trading: Positionen geschlossen 
-	 - 09:57 - Gewinn/Verlust (EUR): +3679,88
-	 - 10:46 - Gewinn/Verlust (EUR): +1292.59
-	 - 10:59 - Gewinn/Verlust (EUR): +1523,48
-	 - 12:55 - Gewinn/Verlust (EUR): +2341,65
-	 - 13:17 - Gewinn/Verlust (EUR):   +479,70
-	 - 15:46 - Gewinn/Verlust (EUR): +1297,07
+	 - 09:57 - Gewinn/Verlust (EUR/USD): +3679,88€
+	 - 10:46 - Gewinn/Verlust (EUR/USD): +1292.59€
+	 - 10:59 - Gewinn/Verlust (EUR/USD): +1523,48€
+	 - 12:55 - Gewinn/Verlust (EUR/USD): +2341,65€
+	 - 13:17 - Gewinn/Verlust (EUR/USD):   +479,70€
+	 - 15:46 - Gewinn/Verlust (EUR/USD): +1297,07€
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (154-157 end)
 
@@ -324,7 +324,7 @@ Montag 6:20 - 14:40 (10:00-10:15 / 13:00-13:15 Pause) = 7,83
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (WIederholung 154-157 end) -> Wichtig1: Klassen erstellen ab Lektion 158
 	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (WIederholung 158-166)
-	- Abschnitt 15: Defining and Testing Trading Strategies (172-)
+	- Abschnitt 15: Defining and Testing Trading Strategies (172-181)
 - 5 Useful Dunder Methods In Python:
 	- https://www.youtube.com/watch?v=y1ZWQQEe5PM
 - OANDA Chart mit Moving-Average-Anzeige um Trends zu erkennen
@@ -339,4 +339,19 @@ Montag 6:20 - 14:40 (10:00-10:15 / 13:00-13:15 Pause) = 7,83
 
 # Tag 86 (02.12.2025):
 
-Dienstag 6:20 - 16:40 = 9,83
+Dienstag 7:20 - 16:40 (14:45-15:15 Pause) = 8,83
+
+ - OANDA Trading: Positionen geschlossen 
+	 - 07:51 - Gewinn/Verlust (EUR/USD): -3885,71€
+	 - 07:54 - Gewinn/Verlust (EUR/USD):   -750,54€
+	 - 08:14 - Gewinn/Verlust (EUR/USD):+1042,95€
+	 - 08:43 - Gewinn/Verlust (EUR/USD):   -483,03€
+	 - 08:52 - Gewinn/Verlust (EUR/USD): -1366,90€
+	 - 09:28 - Gewinn/Verlust (EUR/USD): -1736,42€
+	 - 09:56 - Gewinn/Verlust (EUR/USD):  +662,25€ (Gewinn = 9347,68€)
+	 - Starke Seitwärtsbewegungen machen erschweren die Festlegung auf Long- oder Short-Positionen
+	 - 12:30 - Gewinn/Verlust (EUR/USD):  +534,21€ (Gewinn = 9881,88€)
+	 - 13:24 - Gewinn/Verlust (EUR/USD):  +309,22€ (Gewinn = 10191,10€)
+	 - 16:09 - Gewinn/Verlust (EUR/USD):  +451,20€ (Gewinn = 10642,30€)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 15: Defining and Testing Trading Strategies (181-188)

@@ -69,14 +69,14 @@ class SMABacktester():
         ''' Backtests the SMA-based trading strategy.
         '''
         data = self.data.copy().dropna()
-        data["position"] = np.where(data["SMA_S"] > data["SMA_L"], 1, -1)
-        data["strategy"] = data["position"].shift(1) * data["returns"]
+        data['position'] = np.where(data["SMA_S"] > data["SMA_L"], 1, -1)
+        data['strategy'] = data["position"].shift(1) * data["returns"]
         data.dropna(inplace=True)
-        data["creturns"] = data["returns"].cumsum().apply(np.exp)
-        data["cstrategy"] = data["strategy"].cumsum().apply(np.exp)
+        data['creturns'] = data["returns"].cumsum().apply(np.exp)
+        data['cstrategy'] = data["strategy"].cumsum().apply(np.exp)
         self.results = data
        
-        perf = data["cstrategy"].iloc[-1] # absolute performance of the strategy
+        perf = data['cstrategy'].iloc[-1] # absolute performance of the strategy
         outperf = perf - data["creturns"].iloc[-1] # out-/underperformance of strategy
         return round(perf, 6), round(outperf, 6)
     
@@ -84,9 +84,9 @@ class SMABacktester():
         ''' Plots the performance of the trading strategy and compares to "buy and hold".
         '''
         if self.results is None:
-            print("Run test_strategy() first.")
+            print('Run test_strategy() first.')
         else:
-            title = "{} | SMA_S = {} | SMA_L = {}".format(self.symbol, self.SMA_S, self.SMA_L)
+            title = f'{self.symbol} | SMA_S = {self.SMA_S} | SMA_L = {self.SMA_L}'
             self.results[["creturns", "cstrategy"]].plot(title=title, figsize=(12, 8))
     
     def optimize_parameters(self, SMA_S_range, SMA_L_range):
