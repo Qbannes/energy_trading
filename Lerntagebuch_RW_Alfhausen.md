@@ -324,7 +324,8 @@ Montag 6:20 - 14:40 (10:00-10:15 / 13:00-13:15 Pause) = 7,83
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (WIederholung 154-157 end) -> Wichtig1: Klassen erstellen ab Lektion 158
 	- Abschnitt 14: Object Oriented Programming (OOP): Creating a Financial Analysis Class (WIederholung 158-166)
-	- Abschnitt 15: Defining and Testing Trading Strategies (172-181)
+	- Abschnitt 15: Defining and Testing Trading Strategies (172-177)
+	- Abschnitt 16: Defining and Backtesting SMA (Simply Moving-) Strategies (178-181)
 - 5 Useful Dunder Methods In Python:
 	- https://www.youtube.com/watch?v=y1ZWQQEe5PM
 - OANDA Chart mit Moving-Average-Anzeige um Trends zu erkennen
@@ -354,4 +355,24 @@ Dienstag 7:20 - 16:40 (14:45-15:15 Pause) = 8,83
 	 - 13:24 - Gewinn/Verlust (EUR/USD):  +309,22€ (Gewinn = 10191,10€)
 	 - 16:09 - Gewinn/Verlust (EUR/USD):  +451,20€ (Gewinn = 10642,30€)
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
-	- Abschnitt 15: Defining and Testing Trading Strategies (181-188)
+	- Abschnitt 16: Defining and Backtesting SMA (Simply Moving-) Strategies (181-188)
+
+# Tag 87 (03.12.2025):
+
+Mittwoch 7:20 - 16:40 ( Pause) = 8,83
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 16: Defining and Backtesting SMA (Simply Moving-) Strategies (188-190 end)
+	- Abschnitt 17: Defining and Backtesting simple Momentum/Contrarian Strategies (191-)
+
+ - OANDA Trading: Positionen geschlossen 
+	 - 07:58 - Gewinn/Verlust (EUR/USD):    +56,41€ (Gewinn = 11.604,03€)
+	 - 08:39 - Gewinn/Verlust (EUR/USD):  +961,73€ (Gewinn = 11660,44€)
+	 - 09:59 - Gewinn/Verlust (EUR/USD):  +563,99€ (Gewinn = 12224,42€)
+	 - 10:26 - Gewinn/Verlust (EUR/USD):  +846,26€ (Gewinn = 13070,68€)
+	 - 11:42 - Gewinn/Verlust (EUR/USD):   -767,80€ (Gewinn = 12.302,88€)
+	 - 11:42 - Gewinn/Verlust (EUR/USD): -2013,96€ (Gewinn = 10.288,92€)
+	 - 13:12 - Gewinn/Verlust (EUR/USD): -2811,69€ (Gewinn =   7.477,23€)
+	 - 13:32 - Gewinn/Verlust (EUR/USD):     -27,56€ (Gewinn =    7449,67€)
+	 - 15:17 - Gewinn/Verlust (EUR/USD):    +846,38 (Gewinn =    8296,05€)
+	 - 15:30 - Gewinn/Verlust (EUR/USD):    +582,14 (Gewinn =    8.878,19€)
