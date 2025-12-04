@@ -363,7 +363,7 @@ Mittwoch 7:20 - 16:40 ( Pause) = 8,83
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 16: Defining and Backtesting SMA (Simply Moving-) Strategies (188-190 end)
-	- Abschnitt 17: Defining and Backtesting simple Momentum/Contrarian Strategies (191-)
+	- Abschnitt 17: Defining and Backtesting simple Momentum/Contrarian Strategies (191-200)
 
  - OANDA Trading: Positionen geschlossen 
 	 - 07:58 - Gewinn/Verlust (EUR/USD):    +56,41€ (Gewinn = 11.604,03€)
@@ -376,3 +376,18 @@ Mittwoch 7:20 - 16:40 ( Pause) = 8,83
 	 - 13:32 - Gewinn/Verlust (EUR/USD):     -27,56€ (Gewinn =    7449,67€)
 	 - 15:17 - Gewinn/Verlust (EUR/USD):    +846,38 (Gewinn =    8296,05€)
 	 - 15:30 - Gewinn/Verlust (EUR/USD):    +582,14 (Gewinn =    8.878,19€)
+
+# Tag 89 (04.12.2025):
+
+Donnerstag 6:20 - 15:40 (14:00 - 14:30 Pause) =  8,83
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 18: Defining and Backtesting Mean-Reversion Strategies (Bollinger) (201-206)
+	- Abschnitt 19: Trading Strategies powered by Machine Learning - Regression (208-218)
+	- Abschnitt 20: Trading Strategies powered by Machine Learning - Classification (219 start)
+- Machine Learning von A-Z: Lerne Python & R für Data Science!
+	- Abschnitt 5: Lineare Regression (17-19+22)
+	- Abschnitt 8: Lineare Regression mit mehreren Variablen (39-42)
+- Regression Überanpassung (Overfitting) https://www.youtube.com/watch?v=eFBq7RX0Xd0
+- OANDA Trading: Positionen geschlossen 
+	 -  Gewinn/Verlust (EUR/USD):  +638,90€ (Kapital: 100638,90€)
