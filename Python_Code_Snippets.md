@@ -820,6 +820,47 @@ pd.reset_option('all')
 Das entfernt alle benutzerdefinierten Anzeigeoptionen und stellt die Default-Anzeige wieder her.
 
 
+
+## 11. pd.DataFrame
+
+### 1. DataFrame aus Listen erstellen 
+
+```Python
+Gesamtdaten=pd.DataFrame({'Alter': Altersdaten, 'Einkommen': Einkommensdaten})
+```
+### 2. Aus Dict-Listen (transpose): Mit custom Index
+```Python
+Gesamtdaten=pd.DataFrame([{'Alter': 25, 'Einkommen': 50000}, {'Alter': 30, 'Einkommen': 60000}])
+```
+
+### 3. Aus 2D-Liste: Manuelle Spalten
+```Python
+Gesamtdaten=pd.DataFrame([[25, 50000], [30, 60000]], columns=['Alter', 'Einkommen'])
+```
+
+### 4. Aus NumPy-Array für numerische Daten
+
+```Python
+Gesamtdaten=pd.DataFrame(np.array([[25, 50000], [30, 60000]]), columns=['Alter', 'Einkommen'])
+```
+
+### 5. Leeres DataFrame für schrittweises befüllen
+
+```Python
+Gesamtdaten=pd.DataFrame(columns=['Alter', 'Einkommen'])
+```
+
+### 6. Aus Series Einzelspalte erweitern
+
+```Python
+pd.DataFrame({'Alter': pd.Series(Altersdaten)})
+```
+
+### 7. Aus Liste von Dicts: Zeilen als Dicts
+
+```Python
+pd.DataFrame([{'Alter': 25, 'Einkommen': 50000}, {'Alter': 30, 'Einkommen': 60000}])` – Zeilen als Dicts.
+```
 # **Matplotlib**
 
 ## 1. Liniendiagramm (Line Plot)

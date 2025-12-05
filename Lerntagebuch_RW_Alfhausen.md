@@ -340,7 +340,7 @@ Montag 6:20 - 14:40 (10:00-10:15 / 13:00-13:15 Pause) = 7,83
 
 # Tag 86 (02.12.2025):
 
-Dienstag 7:20 - 16:40 (14:45-15:15 Pause) = 8,83
+Dienstag 6:20 - 16:40 (14:45-15:15 Pause) = 9,83
 
  - OANDA Trading: Positionen geschlossen 
 	 - 07:51 - Gewinn/Verlust (EUR/USD): -3885,71€
@@ -391,3 +391,13 @@ Donnerstag 6:20 - 15:40 (14:00 - 14:30 Pause) =  8,83
 - Regression Überanpassung (Overfitting) https://www.youtube.com/watch?v=eFBq7RX0Xd0
 - OANDA Trading: Positionen geschlossen 
 	 -  Gewinn/Verlust (EUR/USD):  +638,90€ (Kapital: 100638,90€)
+
+# Tag 90 (05.12.2025):
+
+Freitag 8:20 - 12:40 = 4,33
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 20: Trading Strategies powered by Machine Learning - Classification (219-225 started)
+- Python Code Snippet erweitert um Pandas-DataFrame-Funktionen
+- Sigmoid-Funktion: Wahrscheinlichkeitskurve von zwei Variablen wobei eine Variable binär ist. Beispiel: Wahrscheinlichkeit zu bestehen oder nicht (1, 0) gegenüber der Anzahl an aufgewendeten Lernstunden.  
+	- https://www.youtube.com/watch?v=k-NNGEeWbG0
