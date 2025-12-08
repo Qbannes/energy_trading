@@ -377,7 +377,7 @@ Mittwoch 7:20 - 16:40 ( Pause) = 8,83
 	 - 15:17 - Gewinn/Verlust (EUR/USD):    +846,38 (Gewinn =    8296,05€)
 	 - 15:30 - Gewinn/Verlust (EUR/USD):    +582,14 (Gewinn =    8.878,19€)
 
-# Tag 89 (04.12.2025):
+# Tag 88 (04.12.2025):
 
 Donnerstag 6:20 - 15:40 (14:00 - 14:30 Pause) =  8,83
 
@@ -392,7 +392,7 @@ Donnerstag 6:20 - 15:40 (14:00 - 14:30 Pause) =  8,83
 - OANDA Trading: Positionen geschlossen 
 	 -  Gewinn/Verlust (EUR/USD):  +638,90€ (Kapital: 100638,90€)
 
-# Tag 90 (05.12.2025):
+# Tag 89 (05.12.2025):
 
 Freitag 8:20 - 12:40 = 4,33
 
@@ -401,3 +401,15 @@ Freitag 8:20 - 12:40 = 4,33
 - Python Code Snippet erweitert um Pandas-DataFrame-Funktionen
 - Sigmoid-Funktion: Wahrscheinlichkeitskurve von zwei Variablen wobei eine Variable binär ist. Beispiel: Wahrscheinlichkeit zu bestehen oder nicht (1, 0) gegenüber der Anzahl an aufgewendeten Lernstunden.  
 	- https://www.youtube.com/watch?v=k-NNGEeWbG0
+
+# Tag 90 (08.12.2025):
+
+6:15 - 17:40 (14:00-14:30 Pause) = 10,91
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 20: Trading Strategies powered by Machine Learning - Classification (225-228)
+	- Abschnitt 21: Advanced Backtesting Techniques (229-242)
+	- Abschnitt 22: Part 4: Realt-time Implementation and Automation of Strategy (244-245)
+	- Abschnitt: 23: Implementation and Automation with OANDA (246-)
+
+- Streaming data from ENTSO-E with entsoe_streaming_REST_API.ipynb does not work, probably broken API-Key. Tried another API-key. Support contacted. Waiting for response! 

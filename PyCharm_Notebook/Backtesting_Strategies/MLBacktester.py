@@ -7,21 +7,18 @@ import matplotlib.pyplot as plt
 plt.style.use("seaborn-v0_8")
 
 class MLBacktester():
-    ''' Class for the vectorized backtesting of Machine Learning-based trading strategies (Classification).
+    ''' Klasse für vektorisierte Backtesting von ML-Trading-Strategien (Klassifikation).
+        Vorhersage: sign(next_return) ∈ {+1, 0, -1} basierend auf lagged returns.
     '''
-
     def __init__(self, symbol, start, end, tc):
-        '''
+        ''' Konstruktor: Initialisiert Backtester mit Symbol, Zeitraum, Kosten.
+
         Parameters
         ----------
-        symbol: str
-            ticker symbol (instrument) to be backtested
-        start: str
-            start date for data import
-        end: str
-            end date for data import
-        tc: float
-            proportional transaction/trading costs per trade
+        symbol: str          - Ticker (z.B. "EURUSD" aus CSV)
+        start: str           - Start-Datum ('YYYY-MM-DD')
+        end: str             - End-Datum ('YYYY-MM-DD')
+        tc: float            - Transaktionskosten pro Trade (z.B. 0.00007 = 0.007%)
         '''
         self.symbol = symbol
         self.start = start
@@ -32,11 +29,20 @@ class MLBacktester():
         self.get_data()
     
     def __repr__(self):
+        ''' String-Repräsentation für print(mlbt) - zeigt Parameter übersichtlich.
+        '''
         rep = "MLBacktester(symbol = {}, start = {}, end = {}, tc = {})"
         return rep.format(self.symbol, self.start, self.end, self.tc)
                              
     def get_data(self):
-        ''' Imports the data from five_minute_pairs.csv (source can be changed).
+        ''' Lädt OHLC-Daten aus CSV, bereitet price/returns vor.
+
+        Schritte:
+        1. Lese "five_minute_pairs.csv" (5-Min-FX-Daten: EURUSD, GBPUSD, EURAUD)
+        2. Filtere auf self.symbol (z.B. nur EURUSD-Spalte)
+        3. Schneide Zeitraum [start:end]
+        4. Umbenenne in "price"
+        5. Berechne log-returns: returns_t = log(price_t / price_{t-1})
         '''
         raw = pd.read_csv("five_minute_pairs.csv", parse_dates = ["time"], index_col = "time")
         raw = raw[self.symbol].to_frame().dropna()
@@ -46,13 +52,18 @@ class MLBacktester():
         self.data = raw
                              
     def split_data(self, start, end):
-        ''' Splits the data into training set & test set.
+        ''' Einfacher Datenschnitt: Kopie von self.data[ start:end ].
+
+        Warum copy()? Verhindert "SettingWithCopyWarning" bei späteren Änderungen.
         '''
         data = self.data.loc[start:end].copy()
         return data
     
     def prepare_features(self, start, end):
-        ''' Prepares the feature columns for training set and test set.
+        ''' Erstellt Lagged-Features für ML (autoregressive Vorhersage).
+
+        Features: lag1=returns_{t-1}, lag2=returns_{t-2}, ..., lagN=returns_{t-N}
+        Target:  sign(returns_t) ∈ {+1, 0, -1}
         '''
         self.data_subset = self.split_data(start, end)
         self.feature_columns = []
@@ -63,7 +74,10 @@ class MLBacktester():
         self.data_subset.dropna(inplace=True)
 
     def scale_features(self, recalc = True): # Newly added
-        ''' Scales/Standardizes Features
+        ''' Standardisiert Features: z = (x - μ_train) / σ_train
+
+        recalc=True:  Berechne μ/σ aus aktuellem data_subset (TRAINING)
+        recalc=False: Nutze gespeicherte μ/σ (TESTING → gleiche Skalierung!)
         '''
         if recalc:
             self.means = self.data_subset[self.feature_columns].mean()
@@ -72,22 +86,25 @@ class MLBacktester():
         self.data_subset[self.feature_columns] = (self.data_subset[self.feature_columns] - self.means) / self.stand_devs
         
     def fit_model(self, start, end):
-        ''' Fitting the ML Model.
+        ''' Komplettes Training: Features → Scale → Fit.
+
+        Target: np.sign(returns) = +1 (up), 0 (flat), -1 (down)
         '''
         self.prepare_features(start, end)
         self.scale_features(recalc = True) # calculate mean & std of train set and scale train set
         self.model.fit(self.data_subset[self.feature_columns], np.sign(self.data_subset["returns"]))
         
     def test_strategy(self, train_ratio = 0.7, lags = 5):
-        ''' 
-        Backtests the ML-based strategy.
-        
-        Parameters
-        ----------
-        train_ratio: float (between 0 and 1.0 excl.)
-            Splitting the dataset into training set (train_ratio) and test set (1 - train_ratio).
-        lags: int
-            number of lags serving as model features.
+        ''' HAUPTMETHODE: Komplettes Backtesting.
+
+        Workflow:
+        1. Split: train_ratio → train_end, rest → test
+        2. Train: fit_model(train_start, train_end)
+        3. Test:  prepare_features(test_start, test_end)
+        4. Scale test mit TRAIN-μ/σ
+        5. Predict → strategy_returns = pred * returns
+        6. Costs: trades = |pred.diff()|
+        7. Cumulative: exp(cumsum())
         '''
         self.lags = lags
                   
