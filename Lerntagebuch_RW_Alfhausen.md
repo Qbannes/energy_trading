@@ -416,7 +416,7 @@ Montag 6:15 - 17:40 (14:00-14:30 Pause) = 10,91
 
 # Tag 91 (09.12.2025):
 
-Dienstag 8:30 - 16:30 (Pause ) = 
+Dienstag 8:30 - 16:30 (Pause ) = 7,5
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 23: Implementation and Automation with OANDA (248-262+269-270)
