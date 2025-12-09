@@ -404,12 +404,21 @@ Freitag 8:20 - 12:40 = 4,33
 
 # Tag 90 (08.12.2025):
 
-6:15 - 17:40 (14:00-14:30 Pause) = 10,91
+Montag 6:15 - 17:40 (14:00-14:30 Pause) = 10,91
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 20: Trading Strategies powered by Machine Learning - Classification (225-228)
 	- Abschnitt 21: Advanced Backtesting Techniques (229-242)
 	- Abschnitt 22: Part 4: Realt-time Implementation and Automation of Strategy (244-245)
-	- Abschnitt: 23: Implementation and Automation with OANDA (246-)
+	- Abschnitt: 23: Implementation and Automation with OANDA (246-247)
 
 - Streaming data from ENTSO-E with entsoe_streaming_REST_API.ipynb does not work, probably broken API-Key. Tried another API-key. Support contacted. Waiting for response! 
+
+# Tag 91 (09.12.2025):
+
+Dienstag 8:30 - 16:30 (Pause ) = 
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 23: Implementation and Automation with OANDA (248-262+269-270)
+	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (372-373) 
+- Installed PyCharm Pro for Students; what´s new in PyCharm Pro ? https://www.youtube.com/watch?v=9ytQ1phbckw
