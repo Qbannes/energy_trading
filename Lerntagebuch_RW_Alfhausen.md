@@ -416,9 +416,15 @@ Montag 6:15 - 17:40 (14:00-14:30 Pause) = 10,91
 
 # Tag 91 (09.12.2025):
 
-Dienstag 8:30 - 16:30 (Pause ) = 7,5
+Dienstag 8:30 - 16:40 (Pause 14:00-14:30) = 7,66
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 23: Implementation and Automation with OANDA (248-262+269-270)
 	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (372-373) 
 - Installed PyCharm Pro for Students; what´s new in PyCharm Pro ? https://www.youtube.com/watch?v=9ytQ1phbckw
+
+# Tag 92 (10.12.2025):
+
+Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 8,83
+
+- Trading Bot (Bollinger Strategie) programmieren und testen auf oanda.com
