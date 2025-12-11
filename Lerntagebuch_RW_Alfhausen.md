@@ -428,3 +428,11 @@ Dienstag 8:30 - 16:40 (Pause 14:00-14:30) = 7,66
 Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 8,83
 
 - Trading Bot (Bollinger Strategie) programmieren und testen auf oanda.com
+
+# Tag 93 (11.12.2025):
+
+- Trading Bot (Bollinger Strategie) programmieren und testen auf oanda.com
+	- Code-Erklärung erstellt
+	- versucht Live-Chart mit Bollinger Bänder zu erstellen 
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (374-376 ) 
