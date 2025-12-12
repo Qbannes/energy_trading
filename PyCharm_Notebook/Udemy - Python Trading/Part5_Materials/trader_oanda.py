@@ -73,7 +73,7 @@ class ConTrader(tpqoa.tpqoa):
                             print(e, end = " | ")
                             print("Could not terminate session properly!")
                         finally: 
-                            break
+                            pass
                     else: # try again
                         time.sleep(wait)
                         wait += wait_increase
@@ -225,7 +225,7 @@ class ConTrader(tpqoa.tpqoa):
 if __name__ == "__main__":
         
     #insert the file path of your config file below!
-    trader = ConTrader(r"C:\Users\hagma\Desktop\Algo_Trading_AZ\Part5_Materials\oanda.cfg",
+    trader = ConTrader(r'C:\Users\bedla\Documents\Ausbildung_Informatik\1_Praktikum\Praktikum_Daten-_und_Prozessanalyse\energy_trading\PyCharm_Notebook\Trading\Data\oanda.cfg',
                        "EUR_USD", "1min", window = 1, units = 10000, sl_perc = 0.01, tp_perc = 0.01)
     trader.start_trading(days = 5, max_attempts =  3, wait = 20, wait_increase = 0)
     

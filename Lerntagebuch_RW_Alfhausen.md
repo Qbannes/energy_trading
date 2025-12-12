@@ -438,3 +438,12 @@ Donnerstag 7:20 - 16:40 (P 12:30-13:00) = 8,83
 	- versucht Live-Chart mit Bollinger Bänder zu erstellen 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (374-376 ) 
+
+# Tag 94 (12.12.2025):
+
+Freitag 7:20 - 11:40 = 5,33
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (376-384) 
+	- Abschnitt 23: Implementation and Automation with OANDA (263-264 start)
+- Testing Contrarian Bot and SMA Bot on Oanda 
