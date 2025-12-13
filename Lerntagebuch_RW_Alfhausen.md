@@ -447,3 +447,11 @@ Freitag 7:20 - 11:40 = 5,33
 	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (376-384) 
 	- Abschnitt 23: Implementation and Automation with OANDA (263-264 start)
 - Testing Contrarian Bot and SMA Bot on Oanda 
+
+# Tag 95 (13.12.2025):
+
+Samstag 9:30 - 11:30 = 2,00
+
+- Signatur in Outlook erstellt
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 23: Implementation and Automation with OANDA (264-)
