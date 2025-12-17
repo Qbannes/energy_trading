@@ -454,4 +454,16 @@ Samstag 9:30 - 11:30 = 2,00
 
 - Signatur in Outlook erstellt
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
-	- Abschnitt 23: Implementation and Automation with OANDA (264-)
+	- Abschnitt 23: Implementation and Automation with OANDA (264-265 Start)
+
+
+# Tag 96+97 (15.-16.12.2025): krank
+
+
+# Tag 98 (17.12.2025):
+
+Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 23: Implementation and Automation with OANDA (265-266)
+- programming simple Oanda_Machine_Learning_Bot.ipynb
