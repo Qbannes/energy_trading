@@ -462,8 +462,22 @@ Samstag 9:30 - 11:30 = 2,00
 
 # Tag 98 (17.12.2025):
 
-Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 
+Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 8,83
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 23: Implementation and Automation with OANDA (265-266)
 - programming simple Oanda_Machine_Learning_Bot.ipynb
+
+# Tag 99 (18.12.2025):
+
+Donnerstag 7:20 - 15:40 (ohne Pause) = 8,33
+
+- Running Oanda_Machine_Learning_Bot_II.ipynb
+	- result: 1200 ticks (12min) profit: +5,85€
+- Udemy: Der ultimative Python-Kurs für Data Science, ML & AI: 
+	- Abschnitt 7: Module in Python (81-82)
+	- Abschnitt 8: Mathematische Berechnungen: NumPy (83-87)
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 29: Working with two or many strategies (combination) (330-337)
+	- Abschnitt 30: A Machine Learning-powered Strategy A-Z (DNN) (338-351)
+	- Abschnitt 31: Error Handling: How to make your Trading Bot more stable and reliable (352-354) + (363-365 Start) 365= Error Handling V20 Connection Timeout !!!
