@@ -441,7 +441,7 @@ Donnerstag 7:20 - 16:40 (P 12:30-13:00) = 8,83
 
 # Tag 94 (12.12.2025):
 
-Freitag 7:20 - 11:40 = 5,33
+Freitag 7:20 - 11:40 = 5,33 (ÜStd=0)
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 32: Adding Stop Loss and Take Profit to the Trading Bot (376-384) 
@@ -450,7 +450,7 @@ Freitag 7:20 - 11:40 = 5,33
 
 # Tag 95 (13.12.2025):
 
-Samstag 9:30 - 11:30 = 2,00
+Samstag 9:30 - 14:30 = 5,00 (ÜStd=5)
 
 - Signatur in Outlook erstellt
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
@@ -462,7 +462,7 @@ Samstag 9:30 - 11:30 = 2,00
 
 # Tag 98 (17.12.2025):
 
-Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 8,83
+Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 8,83 (ÜStd=5,83)
 
 - Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 23: Implementation and Automation with OANDA (265-266)
@@ -470,7 +470,7 @@ Mittwoch 7:20 - 16:40 (P 14:50-15:20) = 8,83
 
 # Tag 99 (18.12.2025):
 
-Donnerstag 7:20 - 15:40 (ohne Pause) = 8,33
+Donnerstag 7:20 - 15:40 (ohne Pause) = 8,33 (ÜStd=6,16)
 
 - Running Oanda_Machine_Learning_Bot_II.ipynb
 	- result: 1200 ticks (12min) profit: +5,85€
@@ -481,3 +481,12 @@ Donnerstag 7:20 - 15:40 (ohne Pause) = 8,33
 	- Abschnitt 29: Working with two or many strategies (combination) (330-337)
 	- Abschnitt 30: A Machine Learning-powered Strategy A-Z (DNN) (338-351)
 	- Abschnitt 31: Error Handling: How to make your Trading Bot more stable and reliable (352-354) + (363-365 Start) 365= Error Handling V20 Connection Timeout !!!
+
+# Tag 99 (18.12.2025):
+
+Freitag 8:20 - 13:40 = 5,33  (ÜStd=6,16-2,66=**3,5**)
+
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 31: Error Handling: How to make your Trading Bot more stable and reliable (365-366) + (355-362)
+	- Abschnitt 34: Appendix 1: Python (& FInance) Basics (404-410) + (433-444)
+- Running Oanda_Machine_Learning_Bot_III for 60 minutes
