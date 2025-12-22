@@ -490,3 +490,8 @@ Freitag 8:20 - 13:40 = 5,33  (ÜStd=6,16-2,66=**3,5**)
 	- Abschnitt 31: Error Handling: How to make your Trading Bot more stable and reliable (365-366) + (355-362)
 	- Abschnitt 34: Appendix 1: Python (& FInance) Basics (404-410) + (433-444)
 - Running Oanda_Machine_Learning_Bot_III for 60 minutes
+
+# Tag 100 (22.12.2025):
+Montag 22.12.2025 13:15 - 15:30 = 2,25
+
+- going deeper in understanding construction Oanda_Machine_Learning_Bot_III_copied.ipynb
