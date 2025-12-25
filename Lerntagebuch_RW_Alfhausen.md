@@ -492,6 +492,8 @@ Freitag 8:20 - 13:40 = 5,33  (ÜStd=6,16-2,66=**3,5**)
 - Running Oanda_Machine_Learning_Bot_III for 60 minutes
 
 # Tag 100 (22.12.2025):
-Montag 22.12.2025 13:15 - 15:30 = 2,25
+Montag 22.12.2025 13:15 - 17:30 (P 15:30 - 16:00)  = 2,25+1,25 = 4,00
 
-- going deeper in understanding construction Oanda_Machine_Learning_Bot_III_copied.ipynb
+- going deeper in understanding construction of Oanda_Machine_Learning_Bot_III_copied.ipynb
+- Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (455-459 Start)
