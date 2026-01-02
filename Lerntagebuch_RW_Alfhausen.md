@@ -502,3 +502,6 @@ Montag 13:15 - 17:30 (P 15:30 - 16:00)  = 2,25+1,25 = 4,00
 # Tag 101 (02.01.2026):
 
 Freitag 8:00 - 16:15 (P 12:30-13:00) = 7,75
+
+ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (460-465 Start)
