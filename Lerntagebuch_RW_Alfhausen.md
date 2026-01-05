@@ -505,3 +505,11 @@ Freitag 8:00 - 16:15 (P 12:30-13:00) = 7,75
 
  Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (460-465 Start)
+
+# Tag 102 (05.01.2026):
+
+Montag 10:00 - 11:00; 16:00 - 18:45; 20:00 - 22:00 = 5,75
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (465-470 Start)
+
