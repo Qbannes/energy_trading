@@ -513,3 +513,17 @@ Montag 10:00 - 11:00; 16:00 - 18:45; 20:00 - 22:00 = 5,75
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (465-470 Start)
 
+# Tag 103 (06.01.2026):
+
+Dienstag 8:10 - 8:30 (im Zug); 9:00 - 17:00 (14:15-14:45) = 7,83
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (470-)
+
+Running Machine_Learning_Bot_III: 
+
+Prüfungsvorbereitung Aktuell - Teil 2 der gestreckten Abschlussprüfung: S.7-36
+
+# Tag 104 (06.01.2026):
+
+Mittwoch 6:20 - 17:20 (P) = 10,5
