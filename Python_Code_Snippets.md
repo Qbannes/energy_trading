@@ -861,6 +861,82 @@ pd.DataFrame({'Alter': pd.Series(Altersdaten)})
 ```Python
 pd.DataFrame([{'Alter': 25, 'Einkommen': 50000}, {'Alter': 30, 'Einkommen': 60000}])` – Zeilen als Dicts.
 ```
+
+## 12. Display Options/Anzeigeoptionen
+
+### 12.1 max/minimal möglich anzuzeigende  
+```Python
+pd.options.display.max_rows
+```
+
+```Python
+pd.options.display.min_rows
+```
+
+### 12.2 Head (erste 5 Zeilen)
+```Python
+df.head(-Anzahl der Zeilen-)
+```
+
+### 12.3 Tail (letzte 5 Zeilen)
+```Python
+df.tail(-Anzahl der Zeilen-)
+```
+
+### 12.4 Statistik
+
+Gibt statistische Werte wie Durchschnitt, Min, Max, Perzentile, Standardabweichung und Anzahl aus
+```Python
+df.describe()
+```
+
+Gibt statistische Werte für Objekte(-spalten) (Strings/Text) aus
+```python
+df.describe(include='O')
+```
+
+Minimum jeder numerischen Spalte
+```Python
+df.min(numeric_only=True)
+```
+
+Durchschnitt jeder numerischen Spalte
+```Python
+df.mean(numeric_only=True)
+```
+## 13. Atribute (Index, Spalten, Größe, Form, Infos)
+
+zeigt die Form an (Anzahl Zeilen und Anzahl Spalten)
+```Python
+df.shape
+```
+
+Gesamtzahl aller Elemente
+```Python
+df.size
+```
+
+Indexinformationen
+```Python
+df.index
+```
+
+Spalten anzeigen
+```Python
+df.columns
+```
+
+Informationen (Spalte, Nicht-Null-Anazhl, Datentyp)
+```Python
+df.info()
+```
+
+
+## 14. Sortieren
+
+```Python
+df.sort_values()
+```
 # **Matplotlib**
 
 ## 1. Liniendiagramm (Line Plot)
@@ -1582,7 +1658,7 @@ print(arr_1d)
 
   
 
-Ein 2D-Array entsteht mit einer Liste von Listen:
+### 2.1 Ein 2D-Array entsteht mit einer Liste von Listen:
 
   
 
@@ -1594,13 +1670,8 @@ print(arr_2d)
 
 ```
 
-  
-
 **Output:**
-
-  
-
-```
+```Python
 
 [[1 2 3]
 
@@ -1608,13 +1679,24 @@ print(arr_2d)
 
 ```
 
-  
-  
-
 ***
+### 2.2 Zusammenführen homogener Arrays
 
+```Python
+project_1 = np.array([-200, 20, 50, 70, 100, 50, 0, 0])  
+project_2 = np.array([-50, 10, 25, 25, 50, 0, 0, 0])  
+project_3 = np.array([-1000, 200, 200, 300, 500, 500, 750, 250])  
+
+projects = np.array([project_1, project_2, project_3])
+```
   
+### 2.3 Auffüllen inhomogener Arrays mit np.pad( )
 
+```Python
+projects123 = [[-200, 20, 50, 70, 100, 50], [-50, 10, 25, 25, 50], [-1000, 200, 200, 300, 500, 500, 750, 250]]  
+projects = np.array([np.pad(p, (0, 8-len(p))) for p in projects123])  
+projects
+```
 ## 3. Arrays mit vordefiniertem Inhalt erstellen
 
   
