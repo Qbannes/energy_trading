@@ -518,12 +518,19 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 Dienstag 8:10 - 8:30 (im Zug); 9:00 - 17:00 (14:15-14:45) = 7,83
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
-	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (470-)
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (474 Start)
 
 Running Machine_Learning_Bot_III: 
 
 Prüfungsvorbereitung Aktuell - Teil 2 der gestreckten Abschlussprüfung: S.7-36
 
-# Tag 104 (06.01.2026):
+# Tag 104 (07.01.2026):
 
-Mittwoch 6:20 - 17:20 (P) = 10,5
+Mittwoch 8:30 - 19:00 (P 16:45-17:15) = 10
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (476-481, 483-486 Start)
+
+Wissen über Trading Bots: https://www.youtube.com/watch?v=SnOTRPKb4I0
+
+Krypto-Trading-Bots: Der umfassende Guide für Einsteiger und Profis https://www.okx.com/de/learn/okx-trading-bot-guide
