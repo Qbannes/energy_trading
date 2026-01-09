@@ -551,4 +551,4 @@ Freitag 8:30 - 15:30 = 7
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Exercises (7-10 Start)
 
-Intern: Jorit stellt seine Bachelorarbeit vor
+Intern: Jorit stellt seine Bachelorarbeit vor 12-14 Uhr
