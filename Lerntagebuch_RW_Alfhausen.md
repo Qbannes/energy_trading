@@ -534,3 +534,12 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 Wissen über Trading Bots: https://www.youtube.com/watch?v=SnOTRPKb4I0
 
 Krypto-Trading-Bots: Der umfassende Guide für Einsteiger und Profis https://www.okx.com/de/learn/okx-trading-bot-guide
+
+# Tag 105 (08.01.2026):
+
+Donnerstag 08:30 - 15:00 = 6,5
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (486-500 Start)
+Abschlussprojektbesprechung: Die Auswahl des Projektes für die Abschlussarbeit so einfach und flach wie möglich zu halten.
+- Vorschlag: Maschinendaten überwachen mittels eines Alertsystems

@@ -4742,8 +4742,18 @@ print(cums)
 
 1, dann 1+2=3, dann 1+2+3=6.
 
-  
+```Python
+arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])  
+arr[:,:].cumsum(axis=0) # Kumlierung spaltenweise
+```
+Output: 
 
+
+
+```Python
+arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])  
+arr[:,:].cumsum(axis=0) # Kumlierung zeilenweise
+```
 ***
 
   
