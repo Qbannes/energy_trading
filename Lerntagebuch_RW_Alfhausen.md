@@ -515,7 +515,7 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 
 # Tag 103 (06.01.2026):
 
-Dienstag 8:10 - 8:30 (im Zug); 9:00 - 17:00 (14:15-14:45) = 7,83
+Dienstag 8:10 - 8:30 (im Zug); 9:00 - 17:00 (14:15-14:45) = 7,83 (Telearbeit)
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (474 Start)
@@ -540,7 +540,7 @@ Krypto-Trading-Bots: Der umfassende Guide für Einsteiger und Profis https://www
 Donnerstag 8:30 - 15:00 = 6,5
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
-	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (486-500 Start)
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (486-492 Start)
 Abschlussprojektbesprechung: Die Auswahl des Projektes für die Abschlussarbeit so einfach und flach wie möglich zu halten.
 - Vorschlag: Maschinendaten überwachen mittels eines Alertsystems
 
@@ -552,3 +552,23 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 	- Abschnitt 36: Appendix 3: Exercises (7-10 Start)
 
 Intern: Jorit stellt seine Bachelorarbeit vor 12-14 Uhr
+
+# Tag 107 (12.01.2026):
+
+Montag 9:00 - 18:30 (P 14:00 - 15:00) = 8,5 (Telearbeit)
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (492-500 Start)
+
+Recherche: Grafana, Prometheus
+# Tag 108 (13.01.2026):
+
+Dienstag 8:30 - 15:30 (P 12:30 - 13:30) = 6
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (500-508 Start)
+	- Abschnitt 36: Appendix 3: Exercises (10)
+
+Recherche: 
+	- IinfluxDB https://www.youtube.com/watch?v=wBWTj-1XiRU, https://www.youtube.com/watch?v=nhDKa72QoNQ&t=112s
+	- Grafana: https://www.youtube.com/watch?v=AmN1aGdrzio&t=40s 
