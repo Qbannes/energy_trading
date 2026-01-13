@@ -368,8 +368,12 @@ df.drop("spalte", axis=1, inplace=True)
 ```
 
   
-  
+Liste erstellen (passend zur Zeilenanzahl) und als Index setzen 
 
+```Python
+new_index = [f'Spaltenname{i}' for i in range(1,summer.index.size+1)]
+df.index=new_index
+```
 ***
 
   
@@ -437,17 +441,29 @@ df.isna().sum()
 
 28. **Fehlende Werte verarbeiten**
 
-  
-
 ```python
 
 df.fillna(0, inplace=True)
 
 ```
 
-  
-  
+29. Fehlende Werte löschen
 
+```Python
+df.dropna()
+```
+  
+30. Fehlende Werte Anzeigen
+
+```Python
+df.isna()
+```
+
+30. Nicht fehlende Werte Anzeigen
+
+```Python
+df.notna()
+```
 ***
 
   
