@@ -571,4 +571,4 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 
 Recherche: 
 	- IinfluxDB https://www.youtube.com/watch?v=wBWTj-1XiRU, https://www.youtube.com/watch?v=nhDKa72QoNQ&t=112s
-	- Grafana: https://www.youtube.com/watch?v=AmN1aGdrzio&t=40s 
+	- Grafana: https://www.youtube.com/watch?v=AmN1aGdrzio&t=40s   
