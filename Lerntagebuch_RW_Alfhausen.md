@@ -563,7 +563,6 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 Recherche: Grafana, Prometheus
 # Tag 108 (13.01.2026):
 
-Dienstag 8:30 - 15:30 (P 12:30 - 13:30) = 6
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (500-508 Start)
@@ -572,3 +571,32 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 Recherche: 
 	- IinfluxDB https://www.youtube.com/watch?v=wBWTj-1XiRU, https://www.youtube.com/watch?v=nhDKa72QoNQ&t=112s
 	- Grafana: https://www.youtube.com/watch?v=AmN1aGdrzio&t=40s   
+
+# Tag 109 (14.01.2026):
+
+Mittwoch 8:20 - 17:40 (P 13:00 - 13:30) =  8,83
+
+Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
+	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (508-525)
+	- Abschnitt 1  : Getting Started - Introduction to Role Play (6-7)
+	- Prüfen/überfliegen
+		- Abschnitt 14: Object Oriented Programming: Creating a Financial Analysis Class (166-169 )
+		- Abschnitt 14: Object Oriented Programming: Creating a Financial Analysis Class Coding Exercise (170-171 überflogen)
+		- Abschnitt 18: Defining and Backtesting Mean-Reversion Strategies (Bollinger) - OOP Challenge: Create the Bollinger Class (incl. Solution) (207) 
+		- Abschnitt 21: Advanced Backtesting Techniques: OOP Challenge: Add Contrarian and Bollinger Strategies (243)
+		- Abschnitt 23: Implementation and Automation with OANDA: Importing a Trader Module/Class (267-268)
+		- Abschnitt 26: Cloud Deployment (AWS) | Scheduling Trading Sessions | Full Automation ((309-311) 312 - 321)
+		- Abschnitt 27: PART 5: Expert Tips & Tricks, Case Studies and more (322-323)
+
+Abschluss Algorithmic Trading A-Z with Python, Machine Learning & AWS
+
+Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NLP, AI, KI, Deep Learning & Neuronale Netze:
+	- Abschnitt 21: Logistische Regression (111-117)
+
+Running Oanda_Machine_Learning_Bot with new Data & Settings
+
+
+# Tag 110 (15.01.2026):
+
+Donnerstag 8:30 - 
+
