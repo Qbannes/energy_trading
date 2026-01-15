@@ -600,3 +600,11 @@ Running Oanda_Machine_Learning_Bot with new Data & Settings
 
 Donnerstag 8:30 - 
 
+Udemy: Create powerful Trading Strategies and fully automated AWS Trading Bots for Bitcoin & co. | Spot and Futures Trading:
+	- Abschnitt 1: Getting Started (1-7)
+	- Abschnitt 2: PART1: Fundamentals of Trading, Binance and Python for Finance (8-9)
+	- Abschnitt 3: Introduction to (Algorithmic) Trading, Cryptocurrencies & Binance (10-19)
+	- Abschnitt 4: Cryptocurrency Trading and Investing with Binance A-Z: a Deep Introduction ( 32 = Orderbook, 33 Bid-Ask-Spread & Slippage ) (20-36) 
+	- Abschnitt 5: Installing Python & Jupyter (37-41)
+	- Abschnitt 6: How to avoid & debug coding errors (42-56)
+	- Abschnitt 7: Trading with Python and the Binance API - an Introduction (57-)
