@@ -357,7 +357,7 @@ df["kategorie"] = np.where(df["wert"] > 0, "positiv", "negativ")
 
   
 
-23. **Spalten löschen**
+23. **Spalten löschen**, **Spalten entfernen**
 
   
 
@@ -367,6 +367,25 @@ df.drop("spalte", axis=1, inplace=True)
 
 ```
 
+```Python
+df.drop(columns = ["Spalte1", "Spalte2"], inplace=True)
+```
+
+Alternative 1
+```Python
+df.drop(labels = ["Spalte1", "Spalte2"], axis=1, inplace=True)
+```
+
+Alternative 2
+```Python
+df.drop(labels = ["Spalte1", "Spalte2"], axis='columns', inplace=True)
+```
+
+Alternative 3 (die benötigten Spalten in ein neues DataFrame überführen)
+
+```Python
+new_df=df.loc[:,['Spalte3','Spalte4','Spalte5','Spalte6']]
+```
   
 Liste erstellen (passend zur Zeilenanzahl) und als Index setzen 
 
@@ -948,10 +967,74 @@ df.info()
 ```
 
 
-## 14. Sortieren
+## 14. Sortieren/GroupBy
 
 ```Python
 df.sort_values()
+```
+
+```Python
+grouped_df=df.groupby("Spalte1_Geschlecht")
+grouped_df.groups
+```
+Output für Spalte1_Geschlecht:
+```
+{'female': [1, 2, 3, 8, 9], 'male': [0, 4, 5, 6, 7]}
+```
+
+weiterführend: Zeigen, dass groupby das DataFrame in tuple und DataFrame gruppiert ( !wenn zwei Spalten gruppiert werden, werden auch zwei DataFrames erstellt! )
+```Python
+l=list(grouped_df.groups)
+print(l)
+```
+
+```Python
+type(l[0])
+```
+
+Output:
+```Python
+tuple
+```
+
+```Python
+l[0][0]
+```
+
+Output:
+```Python
+'female'
+```
+
+```Python
+l[0][1]
+```
+
+Output:
+```Python
+Index, sex
+1      female
+2      female
+3      female
+8      female
+9      female
+```
+
+```Python
+type(l[0][1])
+```
+
+Output:
+```Python
+pandas.core.frame.DataFrame
+```
+
+```Python
+type(l[1][1])
+```
+Output:
+```Python
+pandas.core.frame.DataFrame
 ```
 # **Matplotlib**
 
@@ -1628,7 +1711,7 @@ plt.show()
 
 
 
-# 1) **Numpy**
+# **Numpy**
 
 ## Was ist NumPy?
 
@@ -3328,7 +3411,7 @@ DataFrame aus NumPy-Array:
 ```
 
 
-# 2) **Numpy Erweitert**
+# **Numpy Erweitert**
 
 ## 2.1. array
 
@@ -5409,7 +5492,92 @@ print(inverse)
  [-0.2  0.4]]
 
 ```
-# 3) **Imports/Options**
+
+# Seaborn
+
+3.1 Import
+```Python
+import seaborn as sns
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=2, palette= "viridis")  
+sns.countplot(data = df, x = "sex", hue = "pclass")  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.5)  
+sns.stripplot(data = df, x = "sex", y = "age", jitter = True, hue = "pclass", dodge = True)  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.5)  
+sns.swarmplot(data = df, x = "sex", y = "age", hue = "pclass", dodge = True)  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.5)  
+sns.violinplot(data = df, x = "sex", y = "age", hue = "pclass", dodge = True)  
+sns.swarmplot(data = df, x = "sex", y = "age", hue = "pclass", dodge = True, color="black")  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.5)  
+sns.violinplot(data = df, x = "pclass", y = "age", hue = "sex", dodge = True, split = True )  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.5)  
+sns.barplot(data = df, x = "pclass", y = "age", hue = "sex", dodge = True)  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.5)  
+sns.pointplot(data = df, x = "pclass", y = "age", hue = "sex", dodge = True)  
+plt.show()
+```
+
+```Python
+sns.set(font_scale=1.5)  
+sns.jointplot(data = df, x = "age", y = "fare", height = 8, kind = "reg")  
+plt.show()
+```
+
+```Python
+sns.set(font_scale=1.5)  
+sns.lmplot(data = df, x = "age", y = "fare", aspect= 1, height=8, col = "sex")  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.4)  
+sns.heatmap(pd.crosstab(df.Spalte1, df.Spalte2), annot= True, fmt = "d", cmap = "Reds", vmax = 150)  
+plt.show()
+```
+
+```Python
+plt.figure(figsize=(12,8))  
+sns.set(font_scale=1.4)  
+sns.heatmap(df.corr(numeric_only = True), annot= True, cmap = "Reds")  
+plt.show()
+```
+
+
+# **Imports/Options**
 
 ### 3.1) Pakete
 
