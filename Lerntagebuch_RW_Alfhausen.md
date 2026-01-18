@@ -53,8 +53,8 @@ Mittwoch 7:20 - 16:30 (13:30 - 14:00 Pause) = 8,67
 - Recherche Energiemarkt: download historische Strommarktdaten https://www.smard.de/home/downloadcenter/download-marktdaten/
 - Marktdaten in Jupyter einlesen
 
-Heute habe ich mich mit Hendrik etwas ausgetauscht über den Strommarkt und einigen technischen Komponenten des Stromnetzes. Beim Gespräch sind einige Schlagwörter gefallen, die ich am gestrigen und am Tag zuvor nachgeschlagen hatte und diese in mein Energy_Wiki festgehalten habe, um darin immer nachschlagen zu können und damit ich das niedergeschriebene besser im Kopf behalte. Weiter hat mir Hendrik die Strombörse live gezeigt. Interessant war unter anderem, welche Wirtschaftssubjekte Forecast-Daten bereitstellen. Während des Gespräches habe ich mir einige Notizen gemacht mit Fachbegriffen und Verweisen zu Internetseiten zum Nachschlagen. 
-Ich habe mir heute etwas über das Programmieren von Trading Bots in Python angeschaut und mir erste Schritte überlegt und notiert. Angefangen mit dem Laden historischer Daten (siehe oben). Als nächstes werde ich mir die Daten (Datum, Preise/MWh) visualisieren lassen in Jupyter Notebook. Ich habe Jupyter Notebook gewählt, weil es mir ermöglicht den Code zu unterteilen in Teilprogramme, die ich separat laufen lassen kann. Mir fällt gerade ein, dass ich noch viel mehr schreiben könnte, werde mich allerdings nur auf das Nötigste beschränken. Alles in allem habe ich heute einen Blick dafür bekommen, wie komplex der Strommarkt und das Stromnetz sind, welche Wirtschaftssubjekte beteiligt sind und das es dadurch jetzt schon gefühlt einen riesen Haufen an Parameter gibt, die später das Verhalten des Trading-Bots bestimmen werden. 
+Heute habe ich mich mit Hendrik etwas ausgetauscht über den Strommarkt und einigen technischen Komponenten des Stromnetzes. Beim Gespräch sind einige Schlagwörter gefallen, die ich am gestrigen und am Tag zuvor nachgeschlagen hatte und diese in mein Energy_Wiki festgehalten habe, um darin immer nachschlagen zu können und damit ich das Niedergeschriebene besser im Kopf behalte. Weiter hat mir Hendrik die Strombörse live gezeigt. Interessant war unter anderem, welche Wirtschaftssubjekte Forecast-Daten bereitstellen. Während des Gespräches habe ich mir einige Notizen gemacht mit Fachbegriffen und Verweisen zu Internetseiten zum Nachschlagen. 
+Ich habe mir heute etwas über das Programmieren von Trading Bots in Python angeschaut und mir erste Schritte überlegt und notiert. Angefangen mit dem Laden historischer Daten (siehe oben). Als nächstes werde ich mir die Daten (Datum, Preise/MWh) visualisieren lassen in Jupyter Notebook. Ich habe Jupyter Notebook gewählt, weil es mir ermöglicht den Code zu unterteilen in Teilprogramme, die ich separat laufen lassen kann. Mir fällt gerade ein, dass ich noch viel mehr schreiben könnte, werde mich allerdings nur auf das Nötigste beschränken. Alles in allem habe ich heute einen Blick dafür bekommen, wie komplex der Strommarkt und das Stromnetz sind, welche Wirtschaftssubjekte beteiligt sind und dass es dadurch jetzt schon gefühlt einen riesigen Haufen an Parametern gibt, die später das Verhalten des Trading-Bots bestimmen werden. 
 
 # Tag 59 (23.10.2025):
 
@@ -563,6 +563,7 @@ Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS:
 Recherche: Grafana, Prometheus
 # Tag 108 (13.01.2026):
 
+Dienstag 8:30 - 18:30 (P 14:30 - 15:00) = 9,5
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course (500-508 Start)
@@ -598,7 +599,7 @@ Running Oanda_Machine_Learning_Bot with new Data & Settings
 
 # Tag 110 (15.01.2026):
 
-Donnerstag 8:30 - 
+Donnerstag 8:20 - 15:40 (P 13:55-14:25) = 6,83
 
 Udemy: Create powerful Trading Strategies and fully automated AWS Trading Bots for Bitcoin & co. | Spot and Futures Trading:
 	- Abschnitt 1: Getting Started (1-7)
@@ -608,3 +609,30 @@ Udemy: Create powerful Trading Strategies and fully automated AWS Trading Bots f
 	- Abschnitt 5: Installing Python & Jupyter (37-41)
 	- Abschnitt 6: How to avoid & debug coding errors (42-56)
 	- Abschnitt 7: Trading with Python and the Binance API - an Introduction (57-)
+
+
+# Tag 111 (16.01.2026):
+
+Freitag 8:20 - 13:40 = 5,33
+
+Zugang Virtueller Desktop Hochschule Osnabrück
+
+Account bei Binance erstellen
+
+Running OANDA_Machine_Learning_Bott_III (neu adjustierte Parameter)
+- Gewinn/Verlust: -4.887,6€
+
+Udemy: Create powerful Trading Strategies and fully automated AWS Trading Bots for Bitcoin & co. | Spot and Futures Trading:
+	- Abschnitt 7: Trading with Python and the Binance API - an Introduction (57-61)
+
+Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NLP, AI, Deep Learning & Neuronale Netze:
+	-  Abschnitt 21: Logistische Regression (118-123 Start)
+
+# Tag 112 (18.01.2026):
+
+Sonntag 14:45 - 15:45; 16:15 - 18:30 = 3,25 (Telearbeit) Wochenabschluss = -0,68
+
+Projektantragsentwurf erstellen mit Perplexity
+
+
+
