@@ -632,7 +632,12 @@ Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NL
 
 Sonntag 14:45 - 15:45; 16:15 - 18:30 = 3,25 (Telearbeit) Wochenabschluss = -0,68
 
-Projektantragsentwurf erstellen mit Perplexity
+Projektantragsentwurf erstellen
+
+Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NLP, AI, Deep Learning & Neuronale Netze:
+	-  Abschnitt 3: Einrichtung der R-Umgebung
+
+
 
 
 
