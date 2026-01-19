@@ -638,6 +638,21 @@ Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NL
 	-  Abschnitt 3: Einrichtung der R-Umgebung
 
 
+# Tag 113 (19.01.2026):
+
+Montag 8:20 - 17:30 (P 15:25 - 15:35, 16:30 - 16:50) =  
+
+Projektantrag finalisiert und eingereicht via Mail bei der IHK Hannover
+
+Account anlegen InfluxDB https://www.influxdata.com
+
+Einführung in InfluxDB (v2.6): https://www.youtube.com/watch?v=nhDKa72QoNQ&t=1325s
+
+Grafana Basics & Flux Queries: https://www.youtube.com/watch?v=kxbtz7J0pYQ
+
+
+
+
 
 
 
