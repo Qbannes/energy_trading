@@ -640,7 +640,7 @@ Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NL
 
 # Tag 113 (19.01.2026):
 
-Montag 8:20 - 17:30 (P 15:25 - 15:35, 16:30 - 16:50) =  
+Montag 8:20 - 17:40 (P 15:25 - 15:55) =  8,83
 
 Projektantrag finalisiert und eingereicht via Mail bei der IHK Hannover
 
@@ -650,6 +650,17 @@ Einführung in InfluxDB (v2.6): https://www.youtube.com/watch?v=nhDKa72QoNQ&t=13
 
 Grafana Basics & Flux Queries: https://www.youtube.com/watch?v=kxbtz7J0pYQ
 
+# Tag 114 (20.01.2026):
+
+Montag 6:20 - 17:30 (P15:00-15:30 ) =  
+
+SQL Challenge: https://sqlzoo.net/ 
+
+Download/Installation PuTTY 
+
+Empfang Logindaten für Server mit Debian
+
+Installation PuTTY/PuTTYGen
 
 
 
