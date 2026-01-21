@@ -652,7 +652,7 @@ Grafana Basics & Flux Queries: https://www.youtube.com/watch?v=kxbtz7J0pYQ
 
 # Tag 114 (20.01.2026):
 
-Montag 6:20 - 17:30 (P15:00-15:30 ) =  
+Dienstag 6:20 - 17:40 (P 15:00 - 15:30 ) =  10,83
 
 SQL Challenge: https://sqlzoo.net/ 
 
@@ -662,6 +662,20 @@ Empfang Logindaten für Server mit Debian
 
 Installation PuTTY/PuTTYGen
 
+Einrichtung Server rw-dev-s03
+	- Docker Compose installiert
+	- InfluxDB installiert
+	- Grafana installiert
+	- Prometheus installiert
+
+# Tag 115 (21.01.2026):
+
+Mittwoch 8:20 - 16:40 (P 14:00 - 14:30) = 7,83
+
+Einrichtung Server rw-dev-s03
+	- Docker Compose installiert
+	- Docker Compose wieder deinstalliert
+	- InfluxDB V3 installiert
 
 
 
