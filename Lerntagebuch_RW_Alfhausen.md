@@ -670,14 +670,19 @@ Einrichtung Server rw-dev-s03
 
 # Tag 115 (21.01.2026):
 
-Mittwoch 8:20 - 16:40 (P 14:00 - 14:30) = 7,83
+Mittwoch 8:20 - 16:40 (P vergessen) = 8,33
 
 Einrichtung Server rw-dev-s03
 	- Docker Compose installiert
 	- Docker Compose wieder deinstalliert
-	- InfluxDB V3 installiert
+	- InfluxDB V3 installiert (über Browser noch nicht erreichbar) -> {"error": "the request was not authenticated"}
+# Tag 116 (22.01.2026):
 
+Donnerstag 8:20 - 16:40 (P vergessen) = 6,33
 
+Einrichtung Server rw-dev-s03
+	- Grafana installiert; Manual (https://grafana.com/docs/grafana/latest/setup-grafana/start-restart-grafana/)
+	- Jupyter Lab installiert; Manual (https://www.howtoforge.de/anleitung/anleitung-zur-installation-von-jupyterlab-unter-debian-12/)
+	- Prometheus installiert; Manual (https://wiki.debian.org/Prometheus)
 
-
-
+Projektdokumentation.md [[Projektdokumentation]]
