@@ -546,7 +546,7 @@ Abschlussprojektbesprechung: Die Auswahl des Projektes für die Abschlussarbeit 
 
 # Tag 106 (09.01.2026):
 
-Freitag 8:30 - 15:30 = 7
+Freitag 8:30 - 15:30 = 7 (-2,92)
 
 Udemy:  Algorithmic Trading A-Z with Python, Machine Learning & AWS: 
 	- Abschnitt 36: Appendix 3: Exercises (7-10 Start)
@@ -613,7 +613,7 @@ Udemy: Create powerful Trading Strategies and fully automated AWS Trading Bots f
 
 # Tag 111 (16.01.2026):
 
-Freitag 8:20 - 13:40 = 5,33
+Freitag 8:20 - 13:40 = 5,33 (-1,01)
 
 Zugang Virtueller Desktop Hochschule Osnabrück
 
@@ -678,7 +678,7 @@ Einrichtung Server rw-dev-s03
 	- InfluxDB V3 installiert (über Browser noch nicht erreichbar) -> {"error": "the request was not authenticated"}
 # Tag 116 (22.01.2026):
 
-Donnerstag 8:20 - 16:40 (P vergessen) = 6,33
+Donnerstag 8:20 - 16:40 (P 14:10-14:40) = 6,33
 
 Einrichtung Server rw-dev-s03
 	- Grafana installiert; Manual (https://grafana.com/docs/grafana/latest/setup-grafana/start-restart-grafana/)
@@ -686,3 +686,61 @@ Einrichtung Server rw-dev-s03
 	- Prometheus installiert; Manual (https://wiki.debian.org/Prometheus)
 
 Projektdokumentation.md [[Projektdokumentation]]
+
+# Tag 117 (23.01.2026):
+
+Freitag 9:20 - 15:40 (P 0) = 6,33 (Wochenabschluss -0,03)
+
+ModbusTCP/IP https://www.youtube.com/watch?v=KE8YUjWMx9w
+
+InfluxDB 3 Explorer (Docker-UI): Docker installieren
+
+
+Überblick über Troubleshooting-Session:
+
+## Ausgangsproblem
+
+InfluxDB 3.8.0 startete nicht (`"Serve command failed: Failed to bind address"`). Ursache: Port 8181 belegt durch alte Instanz (PID 775).[](https://community.influxdata.com/t/influxdb3-failed-to-bind-adress-at-startup/57399)​
+
+**Lösung:** `kill 775` → `--node-id rw-dev-srv-03-node` → Server live (`address=0.0.0.0:8181`).
+
+## Auth & API-Probleme
+
+- Root `/` → `"not authenticated"` (normal, reine REST-API, kein UI).
+    
+- Token erstellt, aber Write/Query fehlgeschlagen (`"not authenticated"`).
+    
+
+**Anpassung:** Neuer **Operator-Token** (`apiv3_2cqaJK...`) → Berechtigungen OK.
+
+## Write-Fehler
+
+Line Protocol Syntax: `temp=24.0` als String interpretiert (`"No fields"`). Timestamp `$(date +%s000000000)` zu kurz.
+
+**Fix:** `temp=25.0 $(date +%s%N)` (float + ns-Timestamp).[](https://docs.influxdata.com/influxdb3/clustered/reference/syntax/line-protocol/)​
+
+## UI/Explorer
+
+Kein Web-UI → Docker **InfluxDB 3 Explorer** (:8088) installiert (Port-Konflikt Jupyter 8888 → 8088 gemäß **Zusammenfassung der letzten 20 Schritte: InfluxDB 3 Core Setup für IHK-Projekt**
+
+**Startproblem:** `influxdb3 serve` scheiterte mit "Failed to bind address" – Port 8181 belegt durch alte Instanz (PID 775). **Fix:** `kill 775` + `--node-id rw-dev-srv-03-node` (Catalog-konsistent).[](https://community.influxdata.com/t/influxdb3-failed-to-bind-adress-at-startup/57399)​
+
+**Auth-Probleme:** curl `/api/v3/health` → "not authenticated" (normal, alle Endpoints Token-pflichtig). Write-Fehler "No fields" → Line Protocol-Syntax (string vs. float, Timestamp ns).[](https://docs.influxdata.com/influxdb3/clustered/reference/syntax/line-protocol/)​
+
+**Docker/Ports:** Explorer (:8088) Konflikt mit Jupyter (:8888, systemd-Service). **Fix:** Jupyter laufen lassen, Explorer auf 8088 → [http://localhost:8088](http://localhost:8088/) (UI für DB-Management).[](https://docs.influxdata.com/influxdb3/explorer/install/)​
+
+**Token-Iteration:** Erstes Token invalid nach Restart → `influxdb3 create token --admin` → neues `apiv3_2cqaJK...` (operator-Rechte).[](https://docs.influxdata.com/influxdb3/enterprise/reference/cli/influxdb3/create/token/permission/)​
+
+**Erfolge:**
+
+- Server läuft stabil (:8181)
+    
+- DB `modbus` + Table `machine1` erstellt (`SHOW TABLES` bestätigt)
+    
+- Write/Query API funktioniert (Syntax-fest)
+
+# Tag 118 (26.01.2026):
+
+## Montag 
+
+kjhlk
