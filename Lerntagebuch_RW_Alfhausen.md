@@ -743,4 +743,11 @@ Kein Web-UI → Docker **InfluxDB 3 Explorer** (:8088) installiert (Port-Konfl
 
 ## Montag 
 
-kjhlk
+8:30 - 16:15 (P nicht gemacht) = 7,75
+
+InfluxDB 3 neu installiert
+Docker neuinstalliert
+Anleitung geschrieben
+Testdatenbank erstellt
+SQL-Queries getestet
+SQL-Training continue: https://sqlzoo.net/wiki/SQL_Tutorial
