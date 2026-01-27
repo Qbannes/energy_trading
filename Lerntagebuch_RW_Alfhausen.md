@@ -743,7 +743,7 @@ Kein Web-UI → Docker **InfluxDB 3 Explorer** (:8088) installiert (Port-Konfl
 
 ## Montag 
 
-8:30 - 16:15 (P nicht gemacht) = 7,75
+8:30 - 17:15 (P 14:15-14:45) = 8,25
 
 InfluxDB 3 neu installiert
 Docker neuinstalliert
@@ -751,3 +751,11 @@ Anleitung geschrieben
 Testdatenbank erstellt
 SQL-Queries getestet
 SQL-Training continue: https://sqlzoo.net/wiki/SQL_Tutorial
+
+# Tag 119 (27.01.2026):
+
+## Dienstag
+
+8:40 - 17:40 (P ) = 8,5
+
+pymodbusTCP installieren in der virtuellen Umgebung (venv)
