@@ -756,6 +756,21 @@ SQL-Training continue: https://sqlzoo.net/wiki/SQL_Tutorial
 
 ## Dienstag
 
-8:40 - 17:40 (P ) = 8,5
+8:40 - 16:40 (P 14:40 - 15:10) = 7,5
 
 pymodbusTCP installieren in der virtuellen Umgebung (venv)
+pymodbus testen/simulieren
+Bugs beheben
+
+# Tag 120 (28.01.2026):
+
+## Mittwoch
+
+10:30 - 18:40 (P 12:30 - 13:30) = 7,16
+
+- Linux-Code-Snippet erstellen (Bedienung, Navigation, Suchen, Anzeigen, deinstallieren, etc.)
+- Projektdokumentation anfangen
+- Passwortresetanfrage GWDG  Göttingen
+- Allgemeines Netzwerkverständnis erlangen 
+- Zugriff auf Programme vom Server über Webbrowser unverschlüsselt (http) -> 
+  Recherche zur Verschlüsselungslösung https://www.youtube.com/watch?v=_pvG9sBeSWo
