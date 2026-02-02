@@ -748,7 +748,7 @@ Kein Web-UI → Docker **InfluxDB 3 Explorer** (:8088) installiert (Port-Konfl
 InfluxDB 3 neu installiert
 Docker neuinstalliert
 Anleitung geschrieben
-Testdatenbank erstellt
+Testdatenbank erstellt in InfluxDB
 SQL-Queries getestet
 SQL-Training continue: https://sqlzoo.net/wiki/SQL_Tutorial
 
@@ -766,7 +766,7 @@ Bugs beheben
 
 ## Mittwoch
 
-10:30 - 18:40 (P 12:30 - 13:30) = 7,16
+9:30 - 18:40 (P 12:30 - 13:30) = 8,16
 
 - Linux-Code-Snippet erstellen (Bedienung, Navigation, Suchen, Anzeigen, deinstallieren, etc.)
 - Projektdokumentation anfangen
@@ -774,3 +774,30 @@ Bugs beheben
 - Allgemeines Netzwerkverständnis erlangen 
 - Zugriff auf Programme vom Server über Webbrowser unverschlüsselt (http) -> 
   Recherche zur Verschlüsselungslösung https://www.youtube.com/watch?v=_pvG9sBeSWo
+
+# Tag 121 (29.01.2026):
+
+Donnerstag
+
+8:20 - 18:40 (P 14:00 - 14:30) = 9,83
+
+SQL Zoo: https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+	- Korellationen, Select in Select, Alias, Group By, Having, In4
+
+# Tag 122 (30.01.2026):
+
+Freitag
+
+9:15 - 11:30, 12:00 - 13:30, 16:00 -  18:45 (Umstieg 11:30 - 12:00) = 6,5  (Telearbeit) (+0,21)
+
+Grafana eingerichtet, InfluxDB V3 Client programmiert, Oanda API programmiert, erste Tickdaten gestreamt,  InfluxDB Doc gelesen, Jupyter Lab: Pakete installiert
+
+# Tag 123 (02.02.2026):
+
+Montag
+
+8:30 - 17:40 (P 15:00-15:30) =   (Telearbeit) (+0,21) = 8,83
+
+Grafana: Dashboard-Elemente erstellt - Bid/Ask-Graph und Moving Average Bid/Ask
+Oanda/InfluxDB Programm verbesssert (Oanda_API.jpynb)
+
