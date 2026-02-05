@@ -794,10 +794,38 @@ Grafana eingerichtet, InfluxDB V3 Client programmiert, Oanda API programmiert, e
 
 # Tag 123 (02.02.2026):
 
-Montag
-
-8:30 - 17:40 (P 15:00-15:30) =   (Telearbeit) (+0,21) = 8,83
+Montag: 8:30 - 17:40 (P 15:00-15:30) =   (Telearbeit) (+0,21) = 8,83
 
 Grafana: Dashboard-Elemente erstellt - Bid/Ask-Graph und Moving Average Bid/Ask
 Oanda/InfluxDB Programm verbesssert (Oanda_API.jpynb)
 
+# Tag 124 (03.02.2026):
+
+Dienstag: 7:20 - 16:40 (P 15:50 - 16:20) = 8,83
+
+Neuprogrammierung und Vertiefung des Oanda-Wrappers für das Speichern von Wechselkursdaten in der InfluxDB V3.
+	- CFG erstellen, damit Accountdaten nicht im Code enthalten sind
+	- CFG einlesen mit configparser und die Werte als Parameter InfluxDBClient3() übergeben
+		- config=configparser.ConfigParser()
+		config.read('influx.cfg')
+		client = InfluxDBClient3(**config['influx'])
+
+# Tag 125 (04.02.2026):
+
+Mittwoch: 7:00 - 16:00 (P 10:30-10:45 ,14:15 - 14:30) = 8,5 (Telearbeit)
+
+SQLZoo Training
+Python: Funktionen und Schleifen (for-loops, while-loops)
+Adjustierung Oanda_Machine_Learning_Bot_III.jpynb
+
+Udemy: Maschinelles Lernen komplett: Regression, Klassifizierung, Clustering, NLP, AI, Deep Learning & Neuronale Netze:
+	-  Abschnitt 3: Einrichtung der R-Umgebung (9-14)
+# Tag 126 (05.02.2026):
+
+Donnerstag: 8:30 - 16:40 (P 14:15 - 14:45) = 7,66
+
+Rücksprache mit Comcave College und IHK Hannover bezüglich Praktikumsbestätigung
+
+Weiterentwichlung Oanda-Wrapper (Aoanda_API.jpynb)
+Grafana Dashboard: Elemente hinzufügen (LogR(Relation), Log-Return)
+Time-Shift-Problem: Die in Grafana angezeigten Graphen rutschen aus dem Zeitfenster nach links, weil die gestreamten Ticks verzögert ankommen oder nicht schnell genug verarbeitet werden. 
