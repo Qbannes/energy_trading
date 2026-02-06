@@ -829,3 +829,12 @@ Rücksprache mit Comcave College und IHK Hannover bezüglich Praktikumsbestätig
 Weiterentwichlung Oanda-Wrapper (Aoanda_API.jpynb)
 Grafana Dashboard: Elemente hinzufügen (LogR(Relation), Log-Return)
 Time-Shift-Problem: Die in Grafana angezeigten Graphen rutschen aus dem Zeitfenster nach links, weil die gestreamten Ticks verzögert ankommen oder nicht schnell genug verarbeitet werden. 
+
+# Tag 127 (06.02.2026):
+
+Freitag: 8:20 - 14:40 = 6,33 (40,36(+0,36))
+
+Klassen und Vererbung Auffrischung 
+	- https://www.youtube.com/watch?v=d3Wqi7asNXg
+	- https://www.youtube.com/watch?v=XxCZrT7Z3G4
+	- Klassen erstellt mit Tier und Hund
