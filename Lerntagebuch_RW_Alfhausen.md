@@ -838,3 +838,12 @@ Klassen und Vererbung Auffrischung
 	- https://www.youtube.com/watch?v=d3Wqi7asNXg
 	- https://www.youtube.com/watch?v=XxCZrT7Z3G4
 	- Klassen erstellt mit Tier und Hund
+
+# Tag 128 (09.02.2026):
+
+Montag: 9:00 - 13:00; 14:30 - 17:00 = 6,5
+
+SQLZoo: Join
+
+Prüfungsvorbereitung: ER-Diagramm, Klassendiagramm, Aktivitäten-Diagramm, Sequenzdiagramm
+
