@@ -841,9 +841,53 @@ Klassen und Vererbung Auffrischung
 
 # Tag 128 (09.02.2026):
 
-Montag: 9:00 - 13:00; 14:30 - 17:00 = 6,5
+Montag: 9:00 - 13:00; 14:30 - 19:00 = 8,5
 
 SQLZoo: Join
 
 Prüfungsvorbereitung: ER-Diagramm, Klassendiagramm, Aktivitäten-Diagramm, Sequenzdiagramm
 
+# Tag 129 (11.02.2026):
+
+Mittwoch: 7:30 - 17:00 (P 13:40 - 14:10) = 9
+
+SQLZoo: More join, Using null
+
+Prüfungsvorbereitung: Projektmanagement, Scrum
+
+# Tag 130 (12.02.2026):
+
+Donnerstag: 9:15 - 10:45; 11:00 - 14:45; 16:00 - 17:00 = 6,25 (Telearbeit)
+
+# Tag 131 (13.02.2026): 
+
+Freitag: 8:00 - 17:30 (P 15:30 - 16:00) = 9 (33,11(-6,89))
+
+# Tag 132 (16.02.2026):
+
+Montag: 7:30 - 16:30 (P 13:45 - 14:15) = 8,5
+
+Prometheus Alertmanager installiert
+Prometheus Dokumentation https://prometheus.io/docs/prometheus/latest/getting_started/
+Prometheus einrichten https://www.youtube.com/watch?v=bPHOI29rwB0&list=PL3DVKoq8wxjQiXgEoolzQblS371f67Ifz
+Prometheus Config erweitern (nano /etc/prometheus/prometheus.yml) ->
+rule_files:
+  - "/etc/prometheus/rules/*.yml"
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: ["127.0.0.1:9093"]
+
+Testalarm
+
+JupyterLab: OANDA_Prometheus_Expoter programmieren
+yaml-Format editieren https://www.youtube.com/watch?v=eKq7hDIbcjs
+
+# Tag 133 (17.02.2026):
+
+Dienstag: 7:10 - 16:45 (P 14:45 - 15:15) = 9,08
+
+Prometheus/Alertmanager 
+Erstellung Konfigdatei
+Probleme beim Empfangen von Alarm-Mails-> Über Postfix versucht, wobei sich herausstellte, dass es auch ohne Postfix funktionierte. Morgen Alles wiederherstellen und postfix deinstallieren.
