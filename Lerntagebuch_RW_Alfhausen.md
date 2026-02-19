@@ -859,13 +859,21 @@ Prüfungsvorbereitung: Projektmanagement, Scrum
 
 Donnerstag: 9:15 - 10:45; 11:00 - 14:45; 16:00 - 17:00 = 6,25 (Telearbeit)
 
+Prüfungsvorbereitung
+
+SQLZoo
+
 # Tag 131 (13.02.2026): 
 
 Freitag: 8:00 - 17:30 (P 15:30 - 16:00) = 9 (33,11(-6,89))
 
+Machine Learning A-Z: Lerne Python & R für Data Science!
+- Einrichtung der R-Umgebung
+- Programmiertraining RCrashkurs: R und RStudio
+- Vektoren in R
 # Tag 132 (16.02.2026):
 
-Montag: 7:30 - 16:30 (P 13:45 - 14:15) = 8,5
+Montag: 7:00 - 16:30 (P 13:45 - 14:15) = 9
 
 Prometheus Alertmanager installiert
 Prometheus Dokumentation https://prometheus.io/docs/prometheus/latest/getting_started/
@@ -886,8 +894,33 @@ yaml-Format editieren https://www.youtube.com/watch?v=eKq7hDIbcjs
 
 # Tag 133 (17.02.2026):
 
-Dienstag: 7:10 - 16:45 (P 14:45 - 15:15) = 9,08
+Dienstag: 7:10 - 16:40 (P 14:45 - 15:15) = 9
 
 Prometheus/Alertmanager 
 Erstellung Konfigdatei
 Probleme beim Empfangen von Alarm-Mails-> Über Postfix versucht, wobei sich herausstellte, dass es auch ohne Postfix funktionierte. Morgen Alles wiederherstellen und postfix deinstallieren.
+
+# Tag 134 (18.02.2026):
+
+Mittwoch: 7:10 - 16:40 (P 14:00 - 14:30) = 9
+
+Jupyter Lab ist über http://localhost:8888/lab/ erreichbar und nicht über die http://188.245.149.163:8888/lab/
+- Grund ist die Sicherheit
+Recherche Netzwerktechnik: localhost, ssh
+- localhost https://www.youtube.com/watch?v=PwNJXUdMkVY
+- ssh https://www.youtube.com/watch?v=4xcQk6b8RB8
+
+
+# Tag 135 (19.02.2026):
+
+Donnerstag: 7:10 - 16:40 (P 14:40 - 15:10) = 9
+
+SSH und Port Forwarding: https://www.youtube.com/watch?v=AtuAdk4MwWw
+
+Alertmanager:
+- Regeln erstellen/erweitern
+- Mathematische Funktionen (Log-Return, Moving Average)
+Automatisierung Notebook-Skripte auf Debian Server
+- Erstellung Systemend für OANDA_Prometheus_Exporter_Systemend.jpynb und Oanda_API_Systemend.jpynb
+
+Probleme: der Graph in Grafana reißt nach einer gewissen Zeit ab. Nach Neustart der Skripte reißt es wieder ab, allerdings schon nach 2-5 Minuten. Entweder gibt es Beschränkungen seitens OANDA bei den Requests oder Beschränkungen seitens Influxdb3 bei den Writings. Eine Abfrage in InfluxDB3 ergab, dass zu den Zeitpunkten, wo der Graph in Grafana nicht mehr erscheint keine Daten in der Datenbank sind. Über das Prometheus-Alertsystem bekomme allerdings weiter Benachrichtigungen, zumindest scheint das Exporter-Skript weiter zu laufen und Daten von Oanda zu bekommen. In den Logs von den Skripten werden nach nach wie vor die Daten im print ausgegeben.
