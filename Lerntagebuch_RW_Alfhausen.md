@@ -924,3 +924,30 @@ Automatisierung Notebook-Skripte auf Debian Server
 - Erstellung Systemend für OANDA_Prometheus_Exporter_Systemend.jpynb und Oanda_API_Systemend.jpynb
 
 Probleme: der Graph in Grafana reißt nach einer gewissen Zeit ab. Nach Neustart der Skripte reißt es wieder ab, allerdings schon nach 2-5 Minuten. Entweder gibt es Beschränkungen seitens OANDA bei den Requests oder Beschränkungen seitens Influxdb3 bei den Writings. Eine Abfrage in InfluxDB3 ergab, dass zu den Zeitpunkten, wo der Graph in Grafana nicht mehr erscheint keine Daten in der Datenbank sind. Über das Prometheus-Alertsystem bekomme allerdings weiter Benachrichtigungen, zumindest scheint das Exporter-Skript weiter zu laufen und Daten von Oanda zu bekommen. In den Logs von den Skripten werden nach nach wie vor die Daten im print ausgegeben.
+
+# Tag 136 (20.02.2026):
+
+Freitag: 8:15 - 13:40 = 6 (41,41(-5,48))
+
+Fehlersuche/Problembehebung: Das am Tag zuvor genannte Problem konnte ich nicht beheben bisher. Ich habe das Python-Skript nochmal geändert. 
+
+**Hauptunterschiede in OANDA-Requests**
+
+Programm Oanda-API (tpqoa) verwendet einen **persistente Streaming-Endpoint** (stream-fxpractice.oanda.com/v3/accounts/.../pricing/stream), der eine einzige langfristige WebSocket-ähnliche Verbindung aufbaut und kontinuierlich Pricing-Updates pusht. Programm Exporter (oandapyV20) nutzt **wiederholte REST-Requests** (`PricingInfo`) alle ~1s an den regulären REST-Endpoint, was unabhängige HTTP-Calls pro Iteration sind.
+
+Streaming ist anfälliger für **Verbindungsabbrüche** (z.B. Netzwerk-Probleme, OANDA-Server-Restarts, Inaktivität), wie häufig bei tpqoa berichtet. REST-Requests sind robuster, da jeder Call unabhängig ist und bei Fehlern einfach neu gestartet werden kann.
+
+
+
+# Tag 137 (23.02.2026):
+
+Montag: 8:20 - 16:45 (P 15:00 - 15:30) =  7,92
+
+Fehlersuche/Problembehebung Streamabbruch und oder Writing-Probleme in InfluxDB V3:
+
+Ich mache heute einige Tests, um dem Fehler auf die Spur zu kommen. Oanda_API_Systemend_I.py läuft in einem Dienst automatisch. Ich habe den Dienst einmal gestoppt und auf enabled gesetzt und danach den Debian-Server neugestartet. sobald der Stream abbricht, bzw Grafana keinen Graphen mehr zeigt, werde ich mir die Logs Oanda_API_Systemend_I.py und des Dienstes oanda-streamer.service anscheuen, der Oanda_API_Systemend_I.py nutzt. 
+
+Dokumentation
+
+Prüfungvorbereitung:
+- Mathematische Grundlagen
